@@ -1,0 +1,3819 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<gpx
+  version="1.1"
+  creator="Tranggle Track 1.1.0 - http://www.beaglemap.com"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xmlns="http://www.topografix.com/GPX/1/1"
+  xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <link href="http://www.beaglemap.com">
+      <text>Tranggle 3.12.3</text>
+    </link>
+    <time>2020-02-09T09:53:38Z</time>
+    <bounds minlat="37.468906" minlon="127.061562" maxlat="37.484056" maxlon="127.087435"/>
+    <desc><![CDATA[CREATOR: D49C8B52CAB28FB9, MODEL: SM-G950N, FIRMWARE: 9, PRODUCT: GOOGLE, CONSTANT: M30, CATEGORY: Hiking, BADGEBUILD: 2020-02-06 20:30:02, NETWORK: SKTelecom(LTE)]]></desc>
+  </metadata>
+  <trk>
+    <trkseg>
+    <trkpt lat="37.470135" lon="127.066283">
+      <ele>223.454525</ele>
+      <time>2020-02-09T08:17:30Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=6878983 pci=99 tac=8468 earfcn=2500 rsrp=-84 rsrq=-14 rssnr=-5 cqi=6</cellinfo>
+        <barometer>1005.150</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.470028" lon="127.066276">
+      <ele>221.171077</ele>
+      <time>2020-02-09T08:17:54Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-95 rsrq=-15 rssnr=-7 cqi=5</cellinfo>
+        <barometer>1005.057</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469937" lon="127.066184">
+      <ele>220.623437</ele>
+      <time>2020-02-09T08:18:00Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-97 rsrq=-14 rssnr=-2 cqi=6</cellinfo>
+        <barometer>1005.007</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469855" lon="127.066120">
+      <ele>220.040560</ele>
+      <time>2020-02-09T08:18:07Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-95 rsrq=-15 rssnr=-5 cqi=5</cellinfo>
+        <barometer>1004.863</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469785" lon="127.066045">
+      <ele>219.497657</ele>
+      <time>2020-02-09T08:18:14Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-95 rsrq=-16 rssnr=-5 cqi=4</cellinfo>
+        <barometer>1004.740</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469755" lon="127.065905">
+      <ele>218.508262</ele>
+      <time>2020-02-09T08:18:28Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-92 rsrq=-13 rssnr=-5 cqi=7</cellinfo>
+        <barometer>1004.414</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469672" lon="127.065814">
+      <ele>217.824042</ele>
+      <time>2020-02-09T08:18:39Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-99 rsrq=-14 rssnr=-2 cqi=6</cellinfo>
+        <barometer>1004.147</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469582" lon="127.065741">
+      <ele>217.225150</ele>
+      <time>2020-02-09T08:19:01Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-94 rsrq=-12 rssnr=1 cqi=7</cellinfo>
+        <barometer>1003.594</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469513" lon="127.065666">
+      <ele>217.122469</ele>
+      <time>2020-02-09T08:19:10Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-97 rsrq=-13 rssnr=0 cqi=7</cellinfo>
+        <barometer>1003.350</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469438" lon="127.065576">
+      <ele>217.153684</ele>
+      <time>2020-02-09T08:19:22Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-97 rsrq=-15 rssnr=-3 cqi=5</cellinfo>
+        <barometer>1003.121</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469402" lon="127.065462">
+      <ele>217.560004</ele>
+      <time>2020-02-09T08:19:42Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-96 rsrq=-14 rssnr=-4 cqi=7</cellinfo>
+        <barometer>1002.782</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469388" lon="127.065317">
+      <ele>217.746666</ele>
+      <time>2020-02-09T08:19:49Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-96 rsrq=-13 rssnr=0 cqi=7</cellinfo>
+        <barometer>1002.574</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469366" lon="127.065200">
+      <ele>217.950126</ele>
+      <time>2020-02-09T08:19:56Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-96 rsrq=-13 rssnr=-3 cqi=6</cellinfo>
+        <barometer>1002.419</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469297" lon="127.065125">
+      <ele>218.452351</ele>
+      <time>2020-02-09T08:20:19Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-97 rsrq=-15 rssnr=-3 cqi=5</cellinfo>
+        <barometer>1001.792</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469300" lon="127.064994">
+      <ele>218.703255</ele>
+      <time>2020-02-09T08:20:33Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-99 rsrq=-14 rssnr=-3 cqi=6</cellinfo>
+        <barometer>1001.384</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469325" lon="127.064875">
+      <ele>218.854782</ele>
+      <time>2020-02-09T08:20:42Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-99 rsrq=-16 rssnr=-4 cqi=3</cellinfo>
+        <barometer>1001.202</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469316" lon="127.064754">
+      <ele>219.143202</ele>
+      <time>2020-02-09T08:20:58Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-99 rsrq=-15 rssnr=-3 cqi=6</cellinfo>
+        <barometer>1000.833</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469286" lon="127.064643">
+      <ele>219.599740</ele>
+      <time>2020-02-09T08:21:23Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-97 rsrq=-17 rssnr=-5 cqi=4</cellinfo>
+        <barometer>1000.278</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469248" lon="127.064536">
+      <ele>220.080476</ele>
+      <time>2020-02-09T08:21:41Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-97 rsrq=-13 rssnr=-2 cqi=6</cellinfo>
+        <barometer>999.874</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469227" lon="127.064423">
+      <ele>220.617900</ele>
+      <time>2020-02-09T08:21:53Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-93 rsrq=-15 rssnr=-6 cqi=5</cellinfo>
+        <barometer>999.623</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469227" lon="127.064311">
+      <ele>221.491842</ele>
+      <time>2020-02-09T08:22:10Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-99 rsrq=-15 rssnr=-4 cqi=6</cellinfo>
+        <barometer>999.281</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469256" lon="127.064199">
+      <ele>222.627295</ele>
+      <time>2020-02-09T08:22:37Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-97 rsrq=-16 rssnr=-5 cqi=5</cellinfo>
+        <barometer>998.635</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469190" lon="127.064111">
+      <ele>223.190927</ele>
+      <time>2020-02-09T08:22:52Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-97 rsrq=-15 rssnr=-5 cqi=5</cellinfo>
+        <barometer>998.278</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469127" lon="127.064021">
+      <ele>223.903678</ele>
+      <time>2020-02-09T08:23:05Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-96 rsrq=-14 rssnr=-4 cqi=5</cellinfo>
+        <barometer>997.977</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469071" lon="127.063894">
+      <ele>224.938844</ele>
+      <time>2020-02-09T08:23:30Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-97 rsrq=-14 rssnr=-5 cqi=5</cellinfo>
+        <barometer>997.423</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.468992" lon="127.063838">
+      <ele>225.615554</ele>
+      <time>2020-02-09T08:23:41Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-98 rsrq=-17 rssnr=-5 cqi=5</cellinfo>
+        <barometer>997.158</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.468940" lon="127.063744">
+      <ele>226.898539</ele>
+      <time>2020-02-09T08:24:03Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-95 rsrq=-18 rssnr=-7 cqi=4</cellinfo>
+        <barometer>996.653</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.468923" lon="127.063630">
+      <ele>228.688797</ele>
+      <time>2020-02-09T08:24:31Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-97 rsrq=-17 rssnr=-6 cqi=4</cellinfo>
+        <barometer>996.017</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.468925" lon="127.063503">
+      <ele>229.603186</ele>
+      <time>2020-02-09T08:24:45Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-98 rsrq=-19 rssnr=-8 cqi=3</cellinfo>
+        <barometer>995.693</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.468951" lon="127.063381">
+      <ele>230.567310</ele>
+      <time>2020-02-09T08:25:00Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-97 rsrq=-17 rssnr=-7 cqi=4</cellinfo>
+        <barometer>995.340</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.468940" lon="127.063250">
+      <ele>232.157095</ele>
+      <time>2020-02-09T08:25:21Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-100 rsrq=-19 rssnr=-8 cqi=3</cellinfo>
+        <barometer>994.868</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.468945" lon="127.063137">
+      <ele>233.809972</ele>
+      <time>2020-02-09T08:25:40Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-97 rsrq=-19 rssnr=-9 cqi=3</cellinfo>
+        <barometer>994.389</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.468974" lon="127.062994">
+      <ele>235.565590</ele>
+      <time>2020-02-09T08:25:57Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-98 rsrq=-19 rssnr=-9 cqi=3</cellinfo>
+        <barometer>994.071</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469010" lon="127.062886">
+      <ele>237.850835</ele>
+      <time>2020-02-09T08:26:16Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=42076432 pci=NA tac=0 arfcn=NA rssi=-75</cellinfo>
+        <barometer>993.854</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469081" lon="127.062772">
+      <ele>238.747323</ele>
+      <time>2020-02-09T08:26:23Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19729728 pci=NA tac=8337 arfcn=NA rssi=-73</cellinfo>
+        <barometer>993.670</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469163" lon="127.062684">
+      <ele>239.653952</ele>
+      <time>2020-02-09T08:26:31Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19729728 pci=NA tac=8337 arfcn=NA rssi=-73</cellinfo>
+        <barometer>993.489</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469217" lon="127.062592">
+      <ele>240.784588</ele>
+      <time>2020-02-09T08:26:41Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19729728 pci=NA tac=8337 arfcn=NA rssi=-73</cellinfo>
+        <barometer>993.196</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469220" lon="127.062477">
+      <ele>245.248243</ele>
+      <time>2020-02-09T08:27:11Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=42272068 pci=NA tac=8337 arfcn=NA rssi=-69</cellinfo>
+        <barometer>992.391</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469218" lon="127.062366">
+      <ele>247.987528</ele>
+      <time>2020-02-09T08:27:27Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=42272068 pci=NA tac=8337 arfcn=NA rssi=-65</cellinfo>
+        <barometer>992.238</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469251" lon="127.062317">
+      <ele>254.806284</ele>
+      <time>2020-02-09T08:29:27Z</time>
+      <extensions>
+        <pause>start</pause>
+        <type>unknown</type>
+        <cellinfo>mcc=450 mnc=5 ci=19682336 pci=NA tac=8337 arfcn=NA rssi=-73</cellinfo>
+        <barometer>992.232</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469190" lon="127.062272">
+      <ele>262.791949</ele>
+      <time>2020-02-09T08:29:57Z</time>
+      <extensions>
+        <pause>end</pause>
+        <type>auto</type>
+        <cellinfo>mcc=450 mnc=5 ci=42272068 pci=NA tac=8337 arfcn=NA rssi=-71</cellinfo>
+        <barometer>991.872</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469123" lon="127.062153">
+      <ele>265.418728</ele>
+      <time>2020-02-09T08:30:05Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=42272068 pci=NA tac=8337 arfcn=NA rssi=-71</cellinfo>
+        <barometer>991.636</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469059" lon="127.062086">
+      <ele>269.716288</ele>
+      <time>2020-02-09T08:30:27Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19207428 pci=NA tac=8337 arfcn=NA rssi=-71</cellinfo>
+        <barometer>991.045</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469013" lon="127.061989">
+      <ele>272.539355</ele>
+      <time>2020-02-09T08:30:39Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=42272068 pci=NA tac=8337 arfcn=NA rssi=-71</cellinfo>
+        <barometer>990.694</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469022" lon="127.061861">
+      <ele>274.955896</ele>
+      <time>2020-02-09T08:30:51Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=42272068 pci=NA tac=8337 arfcn=NA rssi=-71</cellinfo>
+        <barometer>990.362</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.468939" lon="127.061771">
+      <ele>276.834615</ele>
+      <time>2020-02-09T08:31:02Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=42272068 pci=NA tac=8337 arfcn=NA rssi=-97</cellinfo>
+        <barometer>990.107</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.468906" lon="127.061657">
+      <ele>278.072316</ele>
+      <time>2020-02-09T08:31:10Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=42815780 pci=NA tac=8337 arfcn=NA rssi=-85</cellinfo>
+        <barometer>989.894</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.468959" lon="127.061562">
+      <ele>282.402295</ele>
+      <time>2020-02-09T08:32:03Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=42076432 pci=NA tac=8513 arfcn=NA rssi=-71</cellinfo>
+        <barometer>989.762</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.468937" lon="127.061653">
+      <ele>288.128847</ele>
+      <time>2020-02-09T08:32:41Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19729728 pci=NA tac=8513 arfcn=NA rssi=-71</cellinfo>
+        <barometer>990.432</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469019" lon="127.061719">
+      <ele>289.157249</ele>
+      <time>2020-02-09T08:32:49Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19729728 pci=NA tac=8337 arfcn=NA rssi=-67</cellinfo>
+        <barometer>990.657</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469088" lon="127.061813">
+      <ele>290.464137</ele>
+      <time>2020-02-09T08:33:04Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=42272068 pci=NA tac=8337 arfcn=NA rssi=-71</cellinfo>
+        <barometer>991.155</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469073" lon="127.061982">
+      <ele>291.435903</ele>
+      <time>2020-02-09T08:33:14Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=42272068 pci=NA tac=8337 arfcn=NA rssi=-71</cellinfo>
+        <barometer>991.506</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469031" lon="127.062089">
+      <ele>291.703901</ele>
+      <time>2020-02-09T08:33:17Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=42272068 pci=NA tac=8337 arfcn=NA rssi=-65</cellinfo>
+        <barometer>991.611</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469034" lon="127.062220">
+      <ele>292.417624</ele>
+      <time>2020-02-09T08:33:27Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=42272068 pci=NA tac=8337 arfcn=NA rssi=-63</cellinfo>
+        <barometer>992.148</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469119" lon="127.062324">
+      <ele>292.987662</ele>
+      <time>2020-02-09T08:33:36Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19729728 pci=NA tac=8337 arfcn=NA rssi=-67</cellinfo>
+        <barometer>992.339</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469218" lon="127.062390">
+      <ele>293.484776</ele>
+      <time>2020-02-09T08:33:45Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19729728 pci=NA tac=8337 arfcn=NA rssi=-67</cellinfo>
+        <barometer>992.558</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469314" lon="127.062393">
+      <ele>294.149923</ele>
+      <time>2020-02-09T08:33:59Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459987 pci=396 tac=4120 earfcn=1350 rsrp=-96 rsrq=-13 rssnr=-5 cqi=4</cellinfo>
+        <barometer>993.198</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469291" lon="127.062515">
+      <ele>294.729545</ele>
+      <time>2020-02-09T08:34:25Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=1350 rsrp=-100 rsrq=-15 rssnr=-7 cqi=4</cellinfo>
+        <barometer>994.004</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469270" lon="127.062637">
+      <ele>294.817759</ele>
+      <time>2020-02-09T08:34:37Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-92 rsrq=-16 rssnr=-7 cqi=3</cellinfo>
+        <barometer>994.355</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469245" lon="127.062759">
+      <ele>294.796041</ele>
+      <time>2020-02-09T08:34:48Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-92 rsrq=-20 rssnr=-9 cqi=1</cellinfo>
+        <barometer>994.745</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469231" lon="127.062881">
+      <ele>294.617256</ele>
+      <time>2020-02-09T08:35:01Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459987 pci=396 tac=4120 earfcn=1350 rsrp=-99 rsrq=-16 rssnr=-4 cqi=4</cellinfo>
+        <barometer>995.230</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469224" lon="127.063004">
+      <ele>294.539085</ele>
+      <time>2020-02-09T08:35:05Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459987 pci=396 tac=4120 earfcn=1350 rsrp=-97 rsrq=-14 rssnr=-3 cqi=6</cellinfo>
+        <barometer>994.979</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469201" lon="127.063126">
+      <ele>294.485474</ele>
+      <time>2020-02-09T08:35:09Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459987 pci=396 tac=4120 earfcn=1350 rsrp=-104 rsrq=-15 rssnr=-4 cqi=4</cellinfo>
+        <barometer>995.363</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469187" lon="127.063262">
+      <ele>294.330716</ele>
+      <time>2020-02-09T08:35:20Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459987 pci=396 tac=4120 earfcn=1350 rsrp=-104 rsrq=-15 rssnr=-5 cqi=5</cellinfo>
+        <barometer>995.596</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469173" lon="127.063375">
+      <ele>294.175753</ele>
+      <time>2020-02-09T08:35:27Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459987 pci=396 tac=4120 earfcn=1350 rsrp=-102 rsrq=-16 rssnr=-4 cqi=5</cellinfo>
+        <barometer>995.719</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469093" lon="127.063477">
+      <ele>293.910864</ele>
+      <time>2020-02-09T08:35:46Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459987 pci=396 tac=4120 earfcn=1350 rsrp=-105 rsrq=-14 rssnr=-2 cqi=7</cellinfo>
+        <barometer>996.071</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469099" lon="127.063597">
+      <ele>293.493344</ele>
+      <time>2020-02-09T08:35:57Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459987 pci=396 tac=4120 earfcn=1350 rsrp=-102 rsrq=-16 rssnr=-3 cqi=5</cellinfo>
+        <barometer>996.406</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469114" lon="127.063709">
+      <ele>292.933006</ele>
+      <time>2020-02-09T08:36:07Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459987 pci=396 tac=4120 earfcn=1350 rsrp=-108 rsrq=-19 rssnr=-3 cqi=4</cellinfo>
+        <barometer>996.744</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469148" lon="127.063827">
+      <ele>292.288332</ele>
+      <time>2020-02-09T08:36:20Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459987 pci=396 tac=4120 earfcn=1350 rsrp=-104 rsrq=-17 rssnr=-3 cqi=6</cellinfo>
+        <barometer>997.175</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469208" lon="127.063923">
+      <ele>291.548909</ele>
+      <time>2020-02-09T08:36:30Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459987 pci=396 tac=4120 earfcn=1350 rsrp=-103 rsrq=-14 rssnr=-3 cqi=6</cellinfo>
+        <barometer>997.566</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469270" lon="127.064011">
+      <ele>290.362888</ele>
+      <time>2020-02-09T08:36:45Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-96 rsrq=-20 rssnr=-10 cqi=2</cellinfo>
+        <barometer>998.084</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469322" lon="127.064122">
+      <ele>289.244013</ele>
+      <time>2020-02-09T08:36:58Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-92 rsrq=-17 rssnr=-6 cqi=5</cellinfo>
+        <barometer>998.458</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469381" lon="127.064214">
+      <ele>288.092126</ele>
+      <time>2020-02-09T08:37:10Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-91 rsrq=-15 rssnr=-6 cqi=4</cellinfo>
+        <barometer>998.920</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469393" lon="127.064332">
+      <ele>286.449612</ele>
+      <time>2020-02-09T08:37:29Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-85 rsrq=-13 rssnr=-2 cqi=5</cellinfo>
+        <barometer>999.625</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469386" lon="127.064446">
+      <ele>285.607043</ele>
+      <time>2020-02-09T08:37:36Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-90 rsrq=-12 rssnr=4 cqi=7</cellinfo>
+        <barometer>999.868</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469413" lon="127.064559">
+      <ele>284.635106</ele>
+      <time>2020-02-09T08:37:45Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-89 rsrq=-16 rssnr=-6 cqi=4</cellinfo>
+        <barometer>1000.178</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469444" lon="127.064674">
+      <ele>283.443568</ele>
+      <time>2020-02-09T08:37:57Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-91 rsrq=-14 rssnr=-6 cqi=5</cellinfo>
+        <barometer>1000.572</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469437" lon="127.064794">
+      <ele>281.380623</ele>
+      <time>2020-02-09T08:38:24Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-92 rsrq=-16 rssnr=-5 cqi=4</cellinfo>
+        <barometer>1001.073</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469452" lon="127.064929">
+      <ele>279.688965</ele>
+      <time>2020-02-09T08:38:45Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-89 rsrq=-14 rssnr=-1 cqi=4</cellinfo>
+        <barometer>1001.824</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469487" lon="127.065047">
+      <ele>279.450008</ele>
+      <time>2020-02-09T08:38:48Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-89 rsrq=-14 rssnr=2 cqi=6</cellinfo>
+        <barometer>1001.937</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469485" lon="127.065164">
+      <ele>278.726204</ele>
+      <time>2020-02-09T08:38:57Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-85 rsrq=-14 rssnr=-2 cqi=6</cellinfo>
+        <barometer>1002.230</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469522" lon="127.065295">
+      <ele>277.692159</ele>
+      <time>2020-02-09T08:39:12Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-88 rsrq=-14 rssnr=-4 cqi=5</cellinfo>
+        <barometer>1002.674</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469530" lon="127.065413">
+      <ele>277.025888</ele>
+      <time>2020-02-09T08:39:21Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-88 rsrq=-16 rssnr=-4 cqi=4</cellinfo>
+        <barometer>1002.889</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469607" lon="127.065488">
+      <ele>276.322958</ele>
+      <time>2020-02-09T08:39:32Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=627243 pci=436 tac=4116 earfcn=2500 rsrp=-89 rsrq=-15 rssnr=-6 cqi=4</cellinfo>
+        <barometer>1003.162</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469681" lon="127.065554">
+      <ele>275.763840</ele>
+      <time>2020-02-09T08:39:42Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=627243 pci=436 tac=4116 earfcn=2500 rsrp=-90 rsrq=-13 rssnr=-5 cqi=4</cellinfo>
+        <barometer>1003.398</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469756" lon="127.065629">
+      <ele>275.246491</ele>
+      <time>2020-02-09T08:39:55Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7231011 pci=95 tac=4118 earfcn=2500 rsrp=-91 rsrq=-18 rssnr=-10 cqi=4</cellinfo>
+        <barometer>1003.753</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469829" lon="127.065715">
+      <ele>274.710724</ele>
+      <time>2020-02-09T08:40:07Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1139515 pci=236 tac=4129 earfcn=1350 rsrp=-104 rsrq=-23 rssnr=-13 cqi=1</cellinfo>
+        <barometer>1004.083</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469907" lon="127.065773">
+      <ele>274.462286</ele>
+      <time>2020-02-09T08:40:13Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459987 pci=396 tac=4120 earfcn=1350 rsrp=-97 rsrq=-14 rssnr=-3 cqi=5</cellinfo>
+        <barometer>1004.253</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.469966" lon="127.065901">
+      <ele>273.752843</ele>
+      <time>2020-02-09T08:40:31Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459987 pci=396 tac=4120 earfcn=1350 rsrp=-95 rsrq=-14 rssnr=-6 cqi=6</cellinfo>
+        <barometer>1004.671</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.470027" lon="127.066014">
+      <ele>273.553719</ele>
+      <time>2020-02-09T08:40:36Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459987 pci=396 tac=4120 earfcn=1350 rsrp=-101 rsrq=-19 rssnr=-8 cqi=4</cellinfo>
+        <barometer>1004.795</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.470125" lon="127.066068">
+      <ele>273.287529</ele>
+      <time>2020-02-09T08:40:43Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7320115 pci=432 tac=4118 earfcn=1350 rsrp=-103 rsrq=-23 rssnr=-11 cqi=1</cellinfo>
+        <barometer>1004.899</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.470213" lon="127.066152">
+      <ele>273.065093</ele>
+      <time>2020-02-09T08:40:49Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-96 rsrq=-19 rssnr=-7 cqi=6</cellinfo>
+        <barometer>1004.980</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.470277" lon="127.066234">
+      <ele>272.846053</ele>
+      <time>2020-02-09T08:40:55Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-87 rsrq=-11 rssnr=-2 cqi=5</cellinfo>
+        <barometer>1005.060</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.470335" lon="127.066325">
+      <ele>272.542565</ele>
+      <time>2020-02-09T08:41:03Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-88 rsrq=-13 rssnr=-1 cqi=7</cellinfo>
+        <barometer>1005.291</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.470377" lon="127.066430">
+      <ele>272.150677</ele>
+      <time>2020-02-09T08:41:13Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-93 rsrq=-16 rssnr=-3 cqi=4</cellinfo>
+        <barometer>1005.664</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.470475" lon="127.066559">
+      <ele>271.430323</ele>
+      <time>2020-02-09T08:41:31Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-91 rsrq=-15 rssnr=-6 cqi=5</cellinfo>
+        <barometer>1006.286</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.470546" lon="127.066639">
+      <ele>271.089816</ele>
+      <time>2020-02-09T08:41:37Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-91 rsrq=-13 rssnr=0 cqi=5</cellinfo>
+        <barometer>1006.378</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.470561" lon="127.066789">
+      <ele>270.664654</ele>
+      <time>2020-02-09T08:41:44Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-91 rsrq=-15 rssnr=1 cqi=6</cellinfo>
+        <barometer>1006.448</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.470594" lon="127.066917">
+      <ele>269.934439</ele>
+      <time>2020-02-09T08:41:54Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-86 rsrq=-11 rssnr=-5 cqi=4</cellinfo>
+        <barometer>1006.745</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.470651" lon="127.067035">
+      <ele>269.487188</ele>
+      <time>2020-02-09T08:41:59Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-90 rsrq=-13 rssnr=-1 cqi=5</cellinfo>
+        <barometer>1006.790</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.470707" lon="127.067133">
+      <ele>268.837966</ele>
+      <time>2020-02-09T08:42:05Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-94 rsrq=-16 rssnr=-5 cqi=4</cellinfo>
+        <barometer>1006.799</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.470766" lon="127.067242">
+      <ele>268.328590</ele>
+      <time>2020-02-09T08:42:09Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=6878983 pci=99 tac=8468 earfcn=2500 rsrp=-95 rsrq=-17 rssnr=-8 cqi=4</cellinfo>
+        <barometer>1006.872</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.470817" lon="127.067378">
+      <ele>267.639058</ele>
+      <time>2020-02-09T08:42:14Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-91 rsrq=-15 rssnr=-6 cqi=4</cellinfo>
+        <barometer>1007.012</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.470837" lon="127.067502">
+      <ele>266.727516</ele>
+      <time>2020-02-09T08:42:20Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-90 rsrq=-10 rssnr=-7 cqi=8</cellinfo>
+        <barometer>1007.191</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.470878" lon="127.067617">
+      <ele>265.498677</ele>
+      <time>2020-02-09T08:42:28Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-93 rsrq=-14 rssnr=-7 cqi=4</cellinfo>
+        <barometer>1007.276</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.470940" lon="127.067827">
+      <ele>264.547494</ele>
+      <time>2020-02-09T08:42:34Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-93 rsrq=-15 rssnr=-5 cqi=4</cellinfo>
+        <barometer>1007.253</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.470964" lon="127.067947">
+      <ele>264.041633</ele>
+      <time>2020-02-09T08:42:37Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-93 rsrq=-12 rssnr=0 cqi=6</cellinfo>
+        <barometer>1007.284</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.471030" lon="127.068058">
+      <ele>262.906577</ele>
+      <time>2020-02-09T08:42:44Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=338711 pci=63 tac=4118 earfcn=2500 rsrp=-99 rsrq=-16 rssnr=-8 cqi=4</cellinfo>
+        <barometer>1007.164</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.471090" lon="127.068192">
+      <ele>261.687404</ele>
+      <time>2020-02-09T08:42:52Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-96 rsrq=-15 rssnr=-6 cqi=7</cellinfo>
+        <barometer>1007.002</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.471171" lon="127.068289">
+      <ele>260.431999</ele>
+      <time>2020-02-09T08:43:01Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-83 rsrq=-11 rssnr=4 cqi=9</cellinfo>
+        <barometer>1006.834</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.471258" lon="127.068387">
+      <ele>259.626074</ele>
+      <time>2020-02-09T08:43:07Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-85 rsrq=-11 rssnr=0 cqi=4</cellinfo>
+        <barometer>1006.732</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.471254" lon="127.068505">
+      <ele>258.053144</ele>
+      <time>2020-02-09T08:43:19Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-89 rsrq=-9 rssnr=-2 cqi=5</cellinfo>
+        <barometer>1006.631</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.471232" lon="127.068630">
+      <ele>256.017890</ele>
+      <time>2020-02-09T08:43:34Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-85 rsrq=-10 rssnr=1 cqi=7</cellinfo>
+        <barometer>1006.612</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.471270" lon="127.068766">
+      <ele>255.071307</ele>
+      <time>2020-02-09T08:43:41Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-85 rsrq=-11 rssnr=1 cqi=7</cellinfo>
+        <barometer>1006.495</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.471297" lon="127.068874">
+      <ele>254.246045</ele>
+      <time>2020-02-09T08:43:47Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-86 rsrq=-11 rssnr=-1 cqi=7</cellinfo>
+        <barometer>1006.373</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.471296" lon="127.069062">
+      <ele>253.127249</ele>
+      <time>2020-02-09T08:43:55Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-79 rsrq=-8 rssnr=5 cqi=11</cellinfo>
+        <barometer>1006.258</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.471275" lon="127.069252">
+      <ele>252.532902</ele>
+      <time>2020-02-09T08:43:59Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-88 rsrq=-10 rssnr=2 cqi=11</cellinfo>
+        <barometer>1006.163</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.471289" lon="127.069375">
+      <ele>251.088578</ele>
+      <time>2020-02-09T08:44:09Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-87 rsrq=-9 rssnr=-6 cqi=8</cellinfo>
+        <barometer>1005.896</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.471258" lon="127.069501">
+      <ele>249.514419</ele>
+      <time>2020-02-09T08:44:24Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-87 rsrq=-12 rssnr=-3 cqi=6</cellinfo>
+        <barometer>1006.098</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.471286" lon="127.069620">
+      <ele>248.191449</ele>
+      <time>2020-02-09T08:44:34Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-88 rsrq=-10 rssnr=-1 cqi=9</cellinfo>
+        <barometer>1005.972</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.471301" lon="127.069748">
+      <ele>247.316684</ele>
+      <time>2020-02-09T08:44:41Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-83 rsrq=-12 rssnr=-4 cqi=6</cellinfo>
+        <barometer>1005.805</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.471342" lon="127.069870">
+      <ele>246.220898</ele>
+      <time>2020-02-09T08:44:51Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-80 rsrq=-10 rssnr=2 cqi=8</cellinfo>
+        <barometer>1005.912</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.471390" lon="127.069973">
+      <ele>245.383833</ele>
+      <time>2020-02-09T08:44:58Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-83 rsrq=-13 rssnr=3 cqi=10</cellinfo>
+        <barometer>1006.029</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.471453" lon="127.070084">
+      <ele>244.642195</ele>
+      <time>2020-02-09T08:45:04Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-82 rsrq=-10 rssnr=-2 cqi=8</cellinfo>
+        <barometer>1006.126</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.471521" lon="127.070191">
+      <ele>243.548005</ele>
+      <time>2020-02-09T08:45:13Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-80 rsrq=-9 rssnr=7 cqi=12</cellinfo>
+        <barometer>1006.347</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.471551" lon="127.070302">
+      <ele>242.939967</ele>
+      <time>2020-02-09T08:45:18Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-76 rsrq=-9 rssnr=6 cqi=12</cellinfo>
+        <barometer>1006.497</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.471605" lon="127.070408">
+      <ele>242.205634</ele>
+      <time>2020-02-09T08:45:24Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-79 rsrq=-10 rssnr=6 cqi=12</cellinfo>
+        <barometer>1006.591</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.471656" lon="127.070520">
+      <ele>241.243168</ele>
+      <time>2020-02-09T08:45:32Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-80 rsrq=-12 rssnr=-2 cqi=9</cellinfo>
+        <barometer>1006.770</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.471691" lon="127.070637">
+      <ele>240.291641</ele>
+      <time>2020-02-09T08:45:40Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-80 rsrq=-7 rssnr=8 cqi=12</cellinfo>
+        <barometer>1007.053</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.471737" lon="127.070734">
+      <ele>239.700125</ele>
+      <time>2020-02-09T08:45:45Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-78 rsrq=-9 rssnr=3 cqi=15</cellinfo>
+        <barometer>1007.227</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.471785" lon="127.070839">
+      <ele>238.768922</ele>
+      <time>2020-02-09T08:45:53Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-82 rsrq=-10 rssnr=5 cqi=11</cellinfo>
+        <barometer>1007.524</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.471792" lon="127.070988">
+      <ele>237.869840</ele>
+      <time>2020-02-09T08:46:01Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-84 rsrq=-9 rssnr=2 cqi=10</cellinfo>
+        <barometer>1007.821</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.471833" lon="127.071122">
+      <ele>237.209953</ele>
+      <time>2020-02-09T08:46:07Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-77 rsrq=-10 rssnr=8 cqi=9</cellinfo>
+        <barometer>1008.043</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.471849" lon="127.071276">
+      <ele>236.174379</ele>
+      <time>2020-02-09T08:46:17Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-80 rsrq=-8 rssnr=1 cqi=6</cellinfo>
+        <barometer>1008.389</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.471863" lon="127.071397">
+      <ele>235.152415</ele>
+      <time>2020-02-09T08:46:27Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-86 rsrq=-12 rssnr=-4 cqi=10</cellinfo>
+        <barometer>1008.810</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.471915" lon="127.071533">
+      <ele>234.538818</ele>
+      <time>2020-02-09T08:46:33Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-71 rsrq=-9 rssnr=16 cqi=10</cellinfo>
+        <barometer>1008.916</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.471958" lon="127.071633">
+      <ele>234.133864</ele>
+      <time>2020-02-09T08:46:37Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-80 rsrq=-10 rssnr=6 cqi=11</cellinfo>
+        <barometer>1008.919</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.472026" lon="127.071707">
+      <ele>233.632221</ele>
+      <time>2020-02-09T08:46:42Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-78 rsrq=-8 rssnr=7 cqi=13</cellinfo>
+        <barometer>1008.901</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.472080" lon="127.071820">
+      <ele>232.835344</ele>
+      <time>2020-02-09T08:46:50Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-79 rsrq=-6 rssnr=7 cqi=10</cellinfo>
+        <barometer>1008.908</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.472119" lon="127.071962">
+      <ele>231.807709</ele>
+      <time>2020-02-09T08:47:00Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-77 rsrq=-8 rssnr=11 cqi=15</cellinfo>
+        <barometer>1009.090</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.472146" lon="127.072080">
+      <ele>230.927017</ele>
+      <time>2020-02-09T08:47:08Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-86 rsrq=-7 rssnr=2 cqi=10</cellinfo>
+        <barometer>1009.011</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.472152" lon="127.072212">
+      <ele>229.309330</ele>
+      <time>2020-02-09T08:47:40Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-87 rsrq=-9 rssnr=2 cqi=10</cellinfo>
+        <barometer>1008.856</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.472156" lon="127.072338">
+      <ele>227.623190</ele>
+      <time>2020-02-09T08:47:51Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-92 rsrq=-11 rssnr=-7 cqi=8</cellinfo>
+        <barometer>1008.720</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.472196" lon="127.072450">
+      <ele>225.165162</ele>
+      <time>2020-02-09T08:48:08Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-88 rsrq=-9 rssnr=-4 cqi=7</cellinfo>
+        <barometer>1008.396</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.472207" lon="127.072563">
+      <ele>223.308535</ele>
+      <time>2020-02-09T08:48:23Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-95 rsrq=-15 rssnr=-5 cqi=7</cellinfo>
+        <barometer>1007.952</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.472267" lon="127.072677">
+      <ele>222.002248</ele>
+      <time>2020-02-09T08:48:34Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-89 rsrq=-16 rssnr=-4 cqi=7</cellinfo>
+        <barometer>1007.724</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.472301" lon="127.072788">
+      <ele>221.237322</ele>
+      <time>2020-02-09T08:48:41Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-89 rsrq=-12 rssnr=0 cqi=9</cellinfo>
+        <barometer>1007.575</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.472335" lon="127.072896">
+      <ele>220.312192</ele>
+      <time>2020-02-09T08:48:50Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-91 rsrq=-11 rssnr=2 cqi=10</cellinfo>
+        <barometer>1007.335</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.472384" lon="127.072992">
+      <ele>219.389924</ele>
+      <time>2020-02-09T08:49:00Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-91 rsrq=-12 rssnr=-3 cqi=10</cellinfo>
+        <barometer>1007.129</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.472417" lon="127.073110">
+      <ele>218.381978</ele>
+      <time>2020-02-09T08:49:13Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-90 rsrq=-12 rssnr=0 cqi=7</cellinfo>
+        <barometer>1006.812</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.472452" lon="127.073235">
+      <ele>217.568456</ele>
+      <time>2020-02-09T08:49:24Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-92 rsrq=-13 rssnr=3 cqi=11</cellinfo>
+        <barometer>1006.582</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.472521" lon="127.073345">
+      <ele>216.750466</ele>
+      <time>2020-02-09T08:49:37Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-91 rsrq=-16 rssnr=-3 cqi=7</cellinfo>
+        <barometer>1006.283</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.472575" lon="127.073453">
+      <ele>216.189303</ele>
+      <time>2020-02-09T08:49:47Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-83 rsrq=-9 rssnr=5 cqi=11</cellinfo>
+        <barometer>1006.163</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.472631" lon="127.073551">
+      <ele>215.805081</ele>
+      <time>2020-02-09T08:49:55Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-88 rsrq=-12 rssnr=-4 cqi=7</cellinfo>
+        <barometer>1006.150</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.472685" lon="127.073644">
+      <ele>215.464376</ele>
+      <time>2020-02-09T08:50:03Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-92 rsrq=-17 rssnr=-3 cqi=5</cellinfo>
+        <barometer>1006.041</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.472764" lon="127.073708">
+      <ele>215.094868</ele>
+      <time>2020-02-09T08:50:13Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-92 rsrq=-12 rssnr=-3 cqi=8</cellinfo>
+        <barometer>1005.937</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.472848" lon="127.073777">
+      <ele>214.693630</ele>
+      <time>2020-02-09T08:50:23Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-94 rsrq=-9 rssnr=3 cqi=11</cellinfo>
+        <barometer>1005.819</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.472937" lon="127.073866">
+      <ele>214.342551</ele>
+      <time>2020-02-09T08:50:32Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-88 rsrq=-10 rssnr=-2 cqi=9</cellinfo>
+        <barometer>1005.697</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.473005" lon="127.073944">
+      <ele>214.041016</ele>
+      <time>2020-02-09T08:50:40Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-98 rsrq=-14 rssnr=-2 cqi=8</cellinfo>
+        <barometer>1005.557</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.473056" lon="127.074049">
+      <ele>213.594160</ele>
+      <time>2020-02-09T08:50:54Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-96 rsrq=-13 rssnr=-6 cqi=5</cellinfo>
+        <barometer>1005.116</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.473093" lon="127.074172">
+      <ele>213.144080</ele>
+      <time>2020-02-09T08:51:13Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-93 rsrq=-11 rssnr=-1 cqi=9</cellinfo>
+        <barometer>1004.613</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.473138" lon="127.074271">
+      <ele>212.798707</ele>
+      <time>2020-02-09T08:51:32Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-89 rsrq=-10 rssnr=6 cqi=11</cellinfo>
+        <barometer>1004.126</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.473198" lon="127.074356">
+      <ele>212.560201</ele>
+      <time>2020-02-09T08:52:37Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-73 rsrq=-9 rssnr=16 cqi=15</cellinfo>
+        <barometer>1003.723</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.473247" lon="127.074467">
+      <ele>212.517307</ele>
+      <time>2020-02-09T08:52:53Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-80 rsrq=-12 rssnr=8 cqi=10</cellinfo>
+        <barometer>1003.314</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.473294" lon="127.074568">
+      <ele>212.472908</ele>
+      <time>2020-02-09T08:53:06Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-73 rsrq=-7 rssnr=13 cqi=11</cellinfo>
+        <barometer>1002.951</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.473374" lon="127.074674">
+      <ele>212.458472</ele>
+      <time>2020-02-09T08:53:20Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-75 rsrq=-8 rssnr=18 cqi=15</cellinfo>
+        <barometer>1002.682</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.473462" lon="127.074736">
+      <ele>212.464305</ele>
+      <time>2020-02-09T08:53:27Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-74 rsrq=-6 rssnr=11 cqi=15</cellinfo>
+        <barometer>1002.545</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.473538" lon="127.074809">
+      <ele>212.488739</ele>
+      <time>2020-02-09T08:53:36Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-76 rsrq=-6 rssnr=13 cqi=15</cellinfo>
+        <barometer>1002.746</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.473578" lon="127.074942">
+      <ele>212.523113</ele>
+      <time>2020-02-09T08:53:44Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-80 rsrq=-9 rssnr=6 cqi=7</cellinfo>
+        <barometer>1002.922</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.473626" lon="127.075063">
+      <ele>212.593523</ele>
+      <time>2020-02-09T08:53:54Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-80 rsrq=-12 rssnr=7 cqi=10</cellinfo>
+        <barometer>1002.901</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.473681" lon="127.075165">
+      <ele>212.636319</ele>
+      <time>2020-02-09T08:54:01Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-82 rsrq=-10 rssnr=3 cqi=10</cellinfo>
+        <barometer>1002.837</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.473745" lon="127.075258">
+      <ele>212.752707</ele>
+      <time>2020-02-09T08:54:16Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-88 rsrq=-7 rssnr=8 cqi=12</cellinfo>
+        <barometer>1002.436</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.473769" lon="127.075376">
+      <ele>212.898346</ele>
+      <time>2020-02-09T08:54:31Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-91 rsrq=-8 rssnr=7 cqi=8</cellinfo>
+        <barometer>1002.045</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.473766" lon="127.075497">
+      <ele>212.986872</ele>
+      <time>2020-02-09T08:54:41Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-87 rsrq=-7 rssnr=11 cqi=15</cellinfo>
+        <barometer>1001.815</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.473783" lon="127.075617">
+      <ele>213.087788</ele>
+      <time>2020-02-09T08:54:54Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-88 rsrq=-7 rssnr=4 cqi=10</cellinfo>
+        <barometer>1001.481</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.473834" lon="127.075743">
+      <ele>213.237666</ele>
+      <time>2020-02-09T08:55:11Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-82 rsrq=-6 rssnr=12 cqi=10</cellinfo>
+        <barometer>1001.073</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.473782" lon="127.075878">
+      <ele>213.669310</ele>
+      <time>2020-02-09T08:55:44Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-81 rsrq=-9 rssnr=12 cqi=13</cellinfo>
+        <barometer>1000.482</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.473801" lon="127.075994">
+      <ele>214.292743</ele>
+      <time>2020-02-09T08:56:04Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-84 rsrq=-8 rssnr=11 cqi=9</cellinfo>
+        <barometer>999.941</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.473879" lon="127.076070">
+      <ele>214.925071</ele>
+      <time>2020-02-09T08:56:28Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-86 rsrq=-12 rssnr=9 cqi=8</cellinfo>
+        <barometer>999.416</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.473954" lon="127.076139">
+      <ele>215.177407</ele>
+      <time>2020-02-09T08:56:38Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-80 rsrq=-7 rssnr=16 cqi=12</cellinfo>
+        <barometer>999.115</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474028" lon="127.076216">
+      <ele>215.963144</ele>
+      <time>2020-02-09T08:57:12Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-76 rsrq=-5 rssnr=17 cqi=12</cellinfo>
+        <barometer>998.414</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474071" lon="127.076316">
+      <ele>216.631997</ele>
+      <time>2020-02-09T08:57:28Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-74 rsrq=-6 rssnr=17 cqi=11</cellinfo>
+        <barometer>998.046</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474131" lon="127.076431">
+      <ele>217.381202</ele>
+      <time>2020-02-09T08:57:45Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-82 rsrq=-7 rssnr=9 cqi=12</cellinfo>
+        <barometer>997.653</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474201" lon="127.076509">
+      <ele>219.253149</ele>
+      <time>2020-02-09T08:58:27Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-82 rsrq=-7 rssnr=6 cqi=9</cellinfo>
+        <barometer>996.728</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474268" lon="127.076593">
+      <ele>220.025405</ele>
+      <time>2020-02-09T08:58:43Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-83 rsrq=-8 rssnr=5 cqi=10</cellinfo>
+        <barometer>996.357</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474307" lon="127.076701">
+      <ele>220.644027</ele>
+      <time>2020-02-09T08:58:57Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-83 rsrq=-10 rssnr=5 cqi=9</cellinfo>
+        <barometer>996.021</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474330" lon="127.076811">
+      <ele>221.973450</ele>
+      <time>2020-02-09T08:59:20Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-85 rsrq=-9 rssnr=4 cqi=11</cellinfo>
+        <barometer>995.414</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474386" lon="127.076915">
+      <ele>223.342930</ele>
+      <time>2020-02-09T08:59:48Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-84 rsrq=-11 rssnr=-5 cqi=8</cellinfo>
+        <barometer>994.859</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474480" lon="127.076956">
+      <ele>223.746300</ele>
+      <time>2020-02-09T08:59:55Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-76 rsrq=-9 rssnr=11 cqi=10</cellinfo>
+        <barometer>994.643</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474563" lon="127.077007">
+      <ele>224.658218</ele>
+      <time>2020-02-09T09:00:13Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3113987 pci=457 tac=4118 earfcn=2500 rsrp=-79 rsrq=-9 rssnr=0 cqi=6</cellinfo>
+        <barometer>994.238</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474648" lon="127.077093">
+      <ele>226.501911</ele>
+      <time>2020-02-09T09:00:31Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-78 rsrq=-11 rssnr=3 cqi=13</cellinfo>
+        <barometer>993.757</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474734" lon="127.077165">
+      <ele>228.057927</ele>
+      <time>2020-02-09T09:00:41Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-80 rsrq=-12 rssnr=5 cqi=6</cellinfo>
+        <barometer>993.615</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474819" lon="127.077215">
+      <ele>229.291097</ele>
+      <time>2020-02-09T09:00:47Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-77 rsrq=-9 rssnr=2 cqi=8</cellinfo>
+        <barometer>993.582</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474897" lon="127.077286">
+      <ele>231.718218</ele>
+      <time>2020-02-09T09:00:56Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-80 rsrq=-7 rssnr=10 cqi=9</cellinfo>
+        <barometer>993.406</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474925" lon="127.077385">
+      <ele>235.954995</ele>
+      <time>2020-02-09T09:01:09Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-74 rsrq=-10 rssnr=10 cqi=12</cellinfo>
+        <barometer>993.282</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474948" lon="127.077495">
+      <ele>239.383669</ele>
+      <time>2020-02-09T09:01:19Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-70 rsrq=-6 rssnr=10 cqi=14</cellinfo>
+        <barometer>993.454</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474983" lon="127.077684">
+      <ele>243.135148</ele>
+      <time>2020-02-09T09:01:30Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-72 rsrq=-7 rssnr=12 cqi=12</cellinfo>
+        <barometer>993.454</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474911" lon="127.077755">
+      <ele>247.103132</ele>
+      <time>2020-02-09T09:01:41Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-76 rsrq=-12 rssnr=9 cqi=15</cellinfo>
+        <barometer>993.306</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474940" lon="127.077898">
+      <ele>249.882221</ele>
+      <time>2020-02-09T09:01:49Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-75 rsrq=-6 rssnr=15 cqi=15</cellinfo>
+        <barometer>993.183</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474958" lon="127.078008">
+      <ele>251.837997</ele>
+      <time>2020-02-09T09:01:55Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-75 rsrq=-6 rssnr=15 cqi=10</cellinfo>
+        <barometer>993.112</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474991" lon="127.078124">
+      <ele>253.704095</ele>
+      <time>2020-02-09T09:02:01Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-77 rsrq=-11 rssnr=13 cqi=10</cellinfo>
+        <barometer>992.965</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475002" lon="127.078247">
+      <ele>256.108272</ele>
+      <time>2020-02-09T09:02:09Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-78 rsrq=-8 rssnr=11 cqi=11</cellinfo>
+        <barometer>992.695</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474992" lon="127.078379">
+      <ele>259.955600</ele>
+      <time>2020-02-09T09:02:22Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-81 rsrq=-9 rssnr=-4 cqi=9</cellinfo>
+        <barometer>992.381</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474985" lon="127.078498">
+      <ele>262.968270</ele>
+      <time>2020-02-09T09:02:32Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-83 rsrq=-9 rssnr=3 cqi=10</cellinfo>
+        <barometer>992.061</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474976" lon="127.078632">
+      <ele>265.812798</ele>
+      <time>2020-02-09T09:02:44Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-84 rsrq=-11 rssnr=0 cqi=9</cellinfo>
+        <barometer>991.955</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474926" lon="127.078752">
+      <ele>269.781278</ele>
+      <time>2020-02-09T09:02:56Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-93 rsrq=-11 rssnr=4 cqi=8</cellinfo>
+        <barometer>991.767</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474876" lon="127.078851">
+      <ele>272.259037</ele>
+      <time>2020-02-09T09:03:18Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-79 rsrq=-8 rssnr=-2 cqi=7</cellinfo>
+        <barometer>991.767</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474809" lon="127.078914">
+      <ele>276.398027</ele>
+      <time>2020-02-09T09:03:43Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-91 rsrq=-16 rssnr=-6 cqi=6</cellinfo>
+        <barometer>991.785</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474759" lon="127.078964">
+      <ele>285.109809</ele>
+      <time>2020-02-09T09:05:17Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-88 rsrq=-9 rssnr=0 cqi=9</cellinfo>
+        <barometer>991.819</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474752" lon="127.078970">
+      <ele>287.414777</ele>
+      <time>2020-02-09T09:05:44Z</time>
+      <extensions>
+        <pause>start</pause>
+        <type>unknown</type>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-86 rsrq=-13 rssnr=-4 cqi=8</cellinfo>
+        <barometer>991.784</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474813" lon="127.078906">
+      <ele>292.209833</ele>
+      <time>2020-02-09T09:07:24Z</time>
+      <extensions>
+        <pause>end</pause>
+        <type>auto</type>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-71 rsrq=-5 rssnr=13 cqi=15</cellinfo>
+        <barometer>991.807</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474796" lon="127.078942">
+      <ele>297.113119</ele>
+      <time>2020-02-09T09:09:25Z</time>
+      <extensions>
+        <pause>start</pause>
+        <type>unknown</type>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-80 rsrq=-9 rssnr=2 cqi=10</cellinfo>
+        <barometer>991.779</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474857" lon="127.078873">
+      <ele>301.610853</ele>
+      <time>2020-02-09T09:11:07Z</time>
+      <extensions>
+        <pause>end</pause>
+        <type>auto</type>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-89 rsrq=-13 rssnr=-5 cqi=6</cellinfo>
+        <barometer>991.789</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474872" lon="127.079006">
+      <ele>302.446737</ele>
+      <time>2020-02-09T09:11:23Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-95 rsrq=-14 rssnr=-5 cqi=6</cellinfo>
+        <barometer>991.958</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474840" lon="127.079122">
+      <ele>303.056327</ele>
+      <time>2020-02-09T09:11:35Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=1459975 pci=396 tac=4120 earfcn=2500 rsrp=-93 rsrq=-21 rssnr=-13 cqi=1</cellinfo>
+        <barometer>992.187</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474869" lon="127.079241">
+      <ele>303.762172</ele>
+      <time>2020-02-09T09:11:55Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19674132 pci=NA tac=8337 arfcn=NA rssi=-67</cellinfo>
+        <barometer>993.160</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474926" lon="127.079351">
+      <ele>303.981885</ele>
+      <time>2020-02-09T09:12:04Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19674132 pci=NA tac=8337 arfcn=NA rssi=-65</cellinfo>
+        <barometer>993.367</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474904" lon="127.079468">
+      <ele>304.141119</ele>
+      <time>2020-02-09T09:12:12Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=-1 pci=NA tac=8337 arfcn=NA rssi=-67</cellinfo>
+        <barometer>993.721</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474830" lon="127.079550">
+      <ele>304.370531</ele>
+      <time>2020-02-09T09:12:25Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=15553568 pci=NA tac=8337 arfcn=NA rssi=-71</cellinfo>
+        <barometer>994.365</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474753" lon="127.079609">
+      <ele>304.544321</ele>
+      <time>2020-02-09T09:12:38Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=15553568 pci=NA tac=8305 arfcn=NA rssi=-67</cellinfo>
+        <barometer>994.943</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474744" lon="127.079743">
+      <ele>304.590484</ele>
+      <time>2020-02-09T09:12:49Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=15553568 pci=NA tac=8305 arfcn=NA rssi=-71</cellinfo>
+        <barometer>995.445</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474758" lon="127.079878">
+      <ele>304.552617</ele>
+      <time>2020-02-09T09:12:56Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=15553568 pci=NA tac=8305 arfcn=NA rssi=-71</cellinfo>
+        <barometer>995.622</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474803" lon="127.079998">
+      <ele>304.446398</ele>
+      <time>2020-02-09T09:13:06Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=15553568 pci=NA tac=8305 arfcn=NA rssi=-71</cellinfo>
+        <barometer>995.911</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474819" lon="127.080140">
+      <ele>304.328243</ele>
+      <time>2020-02-09T09:13:14Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=15553568 pci=NA tac=8305 arfcn=NA rssi=-75</cellinfo>
+        <barometer>996.167</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474840" lon="127.080253">
+      <ele>304.230495</ele>
+      <time>2020-02-09T09:13:20Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=15553568 pci=NA tac=8305 arfcn=NA rssi=-73</cellinfo>
+        <barometer>996.453</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474885" lon="127.080409">
+      <ele>304.137243</ele>
+      <time>2020-02-09T09:13:25Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=15553568 pci=NA tac=8305 arfcn=NA rssi=-69</cellinfo>
+        <barometer>996.590</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.474931" lon="127.080513">
+      <ele>304.023916</ele>
+      <time>2020-02-09T09:13:30Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19674132 pci=NA tac=8305 arfcn=NA rssi=-69</cellinfo>
+        <barometer>996.677</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475010" lon="127.080596">
+      <ele>303.883616</ele>
+      <time>2020-02-09T09:13:35Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8305 arfcn=NA rssi=-69</cellinfo>
+        <barometer>996.589</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475073" lon="127.080719">
+      <ele>303.725985</ele>
+      <time>2020-02-09T09:13:40Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=-1 pci=NA tac=8337 arfcn=NA rssi=-69</cellinfo>
+        <barometer>996.519</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475129" lon="127.080831">
+      <ele>303.592319</ele>
+      <time>2020-02-09T09:13:44Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-69</cellinfo>
+        <barometer>996.534</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475163" lon="127.080945">
+      <ele>303.456149</ele>
+      <time>2020-02-09T09:13:48Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-69</cellinfo>
+        <barometer>996.359</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475202" lon="127.081065">
+      <ele>303.274649</ele>
+      <time>2020-02-09T09:13:53Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-65</cellinfo>
+        <barometer>996.500</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475224" lon="127.081179">
+      <ele>303.025580</ele>
+      <time>2020-02-09T09:13:59Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-63</cellinfo>
+        <barometer>996.947</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475273" lon="127.081287">
+      <ele>302.846995</ele>
+      <time>2020-02-09T09:14:03Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-67</cellinfo>
+        <barometer>996.921</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475336" lon="127.081394">
+      <ele>302.458553</ele>
+      <time>2020-02-09T09:14:11Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7443843 pci=127 tac=4112 earfcn=275 rsrp=NA rsrq=-20 rssnr=-30 cqi=NA</cellinfo>
+        <barometer>997.174</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475380" lon="127.081513">
+      <ele>302.052382</ele>
+      <time>2020-02-09T09:14:18Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-67</cellinfo>
+        <barometer>997.515</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475366" lon="127.081689">
+      <ele>301.361831</ele>
+      <time>2020-02-09T09:14:28Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-69</cellinfo>
+        <barometer>997.756</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475382" lon="127.081853">
+      <ele>300.913307</ele>
+      <time>2020-02-09T09:14:34Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-67</cellinfo>
+        <barometer>997.942</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475399" lon="127.081983">
+      <ele>300.534613</ele>
+      <time>2020-02-09T09:14:39Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-67</cellinfo>
+        <barometer>998.109</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475405" lon="127.082104">
+      <ele>300.009486</ele>
+      <time>2020-02-09T09:14:46Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-77</cellinfo>
+        <barometer>998.181</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475407" lon="127.082227">
+      <ele>299.018472</ele>
+      <time>2020-02-09T09:15:01Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-75</cellinfo>
+        <barometer>998.607</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475334" lon="127.082332">
+      <ele>298.449523</ele>
+      <time>2020-02-09T09:15:10Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-67</cellinfo>
+        <barometer>998.917</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475337" lon="127.082453">
+      <ele>297.910957</ele>
+      <time>2020-02-09T09:15:20Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-69</cellinfo>
+        <barometer>999.419</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475391" lon="127.082668">
+      <ele>297.295459</ele>
+      <time>2020-02-09T09:15:28Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-69</cellinfo>
+        <barometer>999.367</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475436" lon="127.082813">
+      <ele>297.004082</ele>
+      <time>2020-02-09T09:15:31Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-71</cellinfo>
+        <barometer>999.335</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475480" lon="127.082953">
+      <ele>296.707367</ele>
+      <time>2020-02-09T09:15:34Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-69</cellinfo>
+        <barometer>999.184</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475551" lon="127.083048">
+      <ele>296.415881</ele>
+      <time>2020-02-09T09:15:37Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-69</cellinfo>
+        <barometer>999.020</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475631" lon="127.083161">
+      <ele>295.950105</ele>
+      <time>2020-02-09T09:15:42Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-65</cellinfo>
+        <barometer>998.997</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475626" lon="127.083297">
+      <ele>295.509208</ele>
+      <time>2020-02-09T09:15:47Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-67</cellinfo>
+        <barometer>998.873</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475574" lon="127.083424">
+      <ele>295.089403</ele>
+      <time>2020-02-09T09:15:52Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-67</cellinfo>
+        <barometer>998.738</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475573" lon="127.083581">
+      <ele>294.771322</ele>
+      <time>2020-02-09T09:15:56Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-65</cellinfo>
+        <barometer>998.638</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475576" lon="127.083703">
+      <ele>294.321130</ele>
+      <time>2020-02-09T09:16:02Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-67</cellinfo>
+        <barometer>998.499</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475544" lon="127.083830">
+      <ele>293.842969</ele>
+      <time>2020-02-09T09:16:09Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-67</cellinfo>
+        <barometer>998.263</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475508" lon="127.083933">
+      <ele>293.170713</ele>
+      <time>2020-02-09T09:16:20Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-65</cellinfo>
+        <barometer>998.007</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475493" lon="127.084067">
+      <ele>292.718929</ele>
+      <time>2020-02-09T09:16:28Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-65</cellinfo>
+        <barometer>997.973</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475518" lon="127.084190">
+      <ele>292.395673</ele>
+      <time>2020-02-09T09:16:34Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-65</cellinfo>
+        <barometer>998.011</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475538" lon="127.084342">
+      <ele>291.737018</ele>
+      <time>2020-02-09T09:16:47Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-67</cellinfo>
+        <barometer>997.961</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475493" lon="127.084452">
+      <ele>291.444732</ele>
+      <time>2020-02-09T09:16:53Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-69</cellinfo>
+        <barometer>998.029</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475449" lon="127.084553">
+      <ele>291.101473</ele>
+      <time>2020-02-09T09:17:01Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-69</cellinfo>
+        <barometer>997.986</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475417" lon="127.084669">
+      <ele>290.660841</ele>
+      <time>2020-02-09T09:17:10Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-71</cellinfo>
+        <barometer>997.784</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475362" lon="127.084803">
+      <ele>290.287025</ele>
+      <time>2020-02-09T09:17:18Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19696256 pci=NA tac=8337 arfcn=NA rssi=-71</cellinfo>
+        <barometer>997.634</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475327" lon="127.084917">
+      <ele>289.968228</ele>
+      <time>2020-02-09T09:17:25Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-99 rsrq=-17 rssnr=-7 cqi=4</cellinfo>
+        <barometer>997.441</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475296" lon="127.085033">
+      <ele>289.592210</ele>
+      <time>2020-02-09T09:17:34Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-99 rsrq=-17 rssnr=-8 cqi=3</cellinfo>
+        <barometer>997.150</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475288" lon="127.085160">
+      <ele>288.937321</ele>
+      <time>2020-02-09T09:17:56Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=4186279 pci=9 tac=4121 earfcn=2500 rsrp=-97 rsrq=-22 rssnr=-12 cqi=2</cellinfo>
+        <barometer>996.732</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475344" lon="127.085288">
+      <ele>288.542727</ele>
+      <time>2020-02-09T09:18:07Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=5242411 pci=268 tac=2048 earfcn=2500 rsrp=-95 rsrq=-17 rssnr=-11 cqi=2</cellinfo>
+        <barometer>996.536</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475429" lon="127.085365">
+      <ele>288.164574</ele>
+      <time>2020-02-09T09:18:17Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-96 rsrq=-18 rssnr=-7 cqi=5</cellinfo>
+        <barometer>996.284</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475504" lon="127.085431">
+      <ele>287.826687</ele>
+      <time>2020-02-09T09:18:27Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=5242411 pci=268 tac=2048 earfcn=2500 rsrp=-98 rsrq=-19 rssnr=-9 cqi=1</cellinfo>
+        <barometer>996.092</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475560" lon="127.085527">
+      <ele>287.502955</ele>
+      <time>2020-02-09T09:18:38Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=5242411 pci=268 tac=2048 earfcn=2500 rsrp=-82 rsrq=-21 rssnr=-8 cqi=1</cellinfo>
+        <barometer>995.880</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475648" lon="127.085622">
+      <ele>287.102059</ele>
+      <time>2020-02-09T09:19:02Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19693892 pci=NA tac=8337 arfcn=NA rssi=-65</cellinfo>
+        <barometer>996.000</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475627" lon="127.085744">
+      <ele>286.562939</ele>
+      <time>2020-02-09T09:19:25Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19695876 pci=NA tac=8337 arfcn=NA rssi=-69</cellinfo>
+        <barometer>996.395</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475615" lon="127.085857">
+      <ele>286.174079</ele>
+      <time>2020-02-09T09:19:38Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=-1 pci=NA tac=8337 arfcn=NA rssi=-71</cellinfo>
+        <barometer>996.729</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475672" lon="127.085952">
+      <ele>285.606375</ele>
+      <time>2020-02-09T09:19:58Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=-1 pci=NA tac=8337 arfcn=NA rssi=-71</cellinfo>
+        <barometer>997.163</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475741" lon="127.086056">
+      <ele>284.676341</ele>
+      <time>2020-02-09T09:20:27Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=-1 pci=NA tac=8337 arfcn=NA rssi=-69</cellinfo>
+        <barometer>997.980</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475828" lon="127.086128">
+      <ele>284.084830</ele>
+      <time>2020-02-09T09:20:41Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19693892 pci=NA tac=8337 arfcn=NA rssi=-69</cellinfo>
+        <barometer>998.517</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475804" lon="127.086238">
+      <ele>282.893655</ele>
+      <time>2020-02-09T09:21:07Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19693892 pci=NA tac=8337 arfcn=NA rssi=-71</cellinfo>
+        <barometer>999.318</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475884" lon="127.086314">
+      <ele>281.966937</ele>
+      <time>2020-02-09T09:21:30Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19693892 pci=NA tac=8337 arfcn=NA rssi=-75</cellinfo>
+        <barometer>999.976</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475918" lon="127.086442">
+      <ele>281.326959</ele>
+      <time>2020-02-09T09:21:40Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=-1 pci=NA tac=8337 arfcn=NA rssi=-73</cellinfo>
+        <barometer>1000.262</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.475990" lon="127.086513">
+      <ele>280.550239</ele>
+      <time>2020-02-09T09:21:52Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=-1 pci=NA tac=8337 arfcn=NA rssi=-73</cellinfo>
+        <barometer>1000.614</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.476053" lon="127.086620">
+      <ele>279.769656</ele>
+      <time>2020-02-09T09:22:04Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19693892 pci=NA tac=8337 arfcn=NA rssi=-75</cellinfo>
+        <barometer>1000.964</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.476105" lon="127.086713">
+      <ele>278.640351</ele>
+      <time>2020-02-09T09:22:24Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=18890240 pci=NA tac=8337 arfcn=NA rssi=-71</cellinfo>
+        <barometer>1001.729</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.476194" lon="127.086743">
+      <ele>277.979755</ele>
+      <time>2020-02-09T09:22:38Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=18890240 pci=NA tac=8337 arfcn=NA rssi=-73</cellinfo>
+        <barometer>1002.226</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.476287" lon="127.086774">
+      <ele>277.753310</ele>
+      <time>2020-02-09T09:22:42Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=18890240 pci=NA tac=8337 arfcn=NA rssi=-73</cellinfo>
+        <barometer>1002.384</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.476345" lon="127.086876">
+      <ele>277.181523</ele>
+      <time>2020-02-09T09:22:53Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=18890240 pci=NA tac=8337 arfcn=NA rssi=-73</cellinfo>
+        <barometer>1002.772</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.476436" lon="127.086961">
+      <ele>276.894425</ele>
+      <time>2020-02-09T09:22:59Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=18890240 pci=NA tac=8337 arfcn=NA rssi=-73</cellinfo>
+        <barometer>1002.860</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.476503" lon="127.087060">
+      <ele>276.186425</ele>
+      <time>2020-02-09T09:23:15Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=18890240 pci=NA tac=8337 arfcn=NA rssi=-77</cellinfo>
+        <barometer>1003.334</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.476540" lon="127.087168">
+      <ele>275.757129</ele>
+      <time>2020-02-09T09:23:24Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=18890240 pci=NA tac=8337 arfcn=NA rssi=-77</cellinfo>
+        <barometer>1003.723</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.476639" lon="127.087220">
+      <ele>274.782315</ele>
+      <time>2020-02-09T09:23:43Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=42834436 pci=NA tac=8337 arfcn=NA rssi=-75</cellinfo>
+        <barometer>1004.322</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.476712" lon="127.087288">
+      <ele>273.722171</ele>
+      <time>2020-02-09T09:24:05Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19685956 pci=NA tac=8337 arfcn=NA rssi=-75</cellinfo>
+        <barometer>1005.015</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.476783" lon="127.087369">
+      <ele>273.200809</ele>
+      <time>2020-02-09T09:24:17Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19685956 pci=NA tac=8337 arfcn=NA rssi=-77</cellinfo>
+        <barometer>1005.440</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.476867" lon="127.087417">
+      <ele>272.713157</ele>
+      <time>2020-02-09T09:24:30Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19685956 pci=NA tac=8337 arfcn=NA rssi=-75</cellinfo>
+        <barometer>1005.853</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.476974" lon="127.087382">
+      <ele>272.236144</ele>
+      <time>2020-02-09T09:24:45Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19685956 pci=NA tac=8337 arfcn=NA rssi=-75</cellinfo>
+        <barometer>1006.305</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477056" lon="127.087331">
+      <ele>272.019908</ele>
+      <time>2020-02-09T09:24:52Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19685956 pci=NA tac=8337 arfcn=NA rssi=-75</cellinfo>
+        <barometer>1006.478</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477155" lon="127.087363">
+      <ele>271.448413</ele>
+      <time>2020-02-09T09:25:05Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=42076416 pci=NA tac=8337 arfcn=NA rssi=-75</cellinfo>
+        <barometer>1006.730</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477278" lon="127.087414">
+      <ele>271.057044</ele>
+      <time>2020-02-09T09:25:10Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=42834436 pci=NA tac=8337 arfcn=NA rssi=-71</cellinfo>
+        <barometer>1006.794</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477372" lon="127.087435">
+      <ele>270.324973</ele>
+      <time>2020-02-09T09:25:16Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=-1 pci=NA tac=8513 arfcn=NA rssi=-71</cellinfo>
+        <barometer>1006.918</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477439" lon="127.087356">
+      <ele>269.596836</ele>
+      <time>2020-02-09T09:25:21Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=42834436 pci=NA tac=8513 arfcn=NA rssi=-71</cellinfo>
+        <barometer>1007.077</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477503" lon="127.087249">
+      <ele>267.573657</ele>
+      <time>2020-02-09T09:25:32Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=42834436 pci=NA tac=8513 arfcn=NA rssi=-71</cellinfo>
+        <barometer>1007.506</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477552" lon="127.087153">
+      <ele>265.083065</ele>
+      <time>2020-02-09T09:25:45Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=42834436 pci=NA tac=8513 arfcn=NA rssi=-73</cellinfo>
+        <barometer>1008.073</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477579" lon="127.087043">
+      <ele>263.119691</ele>
+      <time>2020-02-09T09:25:53Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=42834436 pci=NA tac=8513 arfcn=NA rssi=-73</cellinfo>
+        <barometer>1008.430</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477612" lon="127.086925">
+      <ele>261.130725</ele>
+      <time>2020-02-09T09:26:00Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=42834436 pci=NA tac=8513 arfcn=NA rssi=-75</cellinfo>
+        <barometer>1008.727</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477639" lon="127.086814">
+      <ele>259.453047</ele>
+      <time>2020-02-09T09:26:06Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=42834436 pci=NA tac=8513 arfcn=NA rssi=-75</cellinfo>
+        <barometer>1008.896</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477700" lon="127.086734">
+      <ele>255.841741</ele>
+      <time>2020-02-09T09:26:19Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=42834436 pci=NA tac=8513 arfcn=NA rssi=-75</cellinfo>
+        <barometer>1009.135</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477785" lon="127.086696">
+      <ele>253.162611</ele>
+      <time>2020-02-09T09:26:28Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19005988 pci=NA tac=8513 arfcn=NA rssi=-71</cellinfo>
+        <barometer>1009.419</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477884" lon="127.086702">
+      <ele>250.540283</ele>
+      <time>2020-02-09T09:26:36Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19005988 pci=NA tac=8513 arfcn=NA rssi=-69</cellinfo>
+        <barometer>1009.728</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477972" lon="127.086726">
+      <ele>248.052297</ele>
+      <time>2020-02-09T09:26:43Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19005988 pci=NA tac=8513 arfcn=NA rssi=-69</cellinfo>
+        <barometer>1009.970</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478062" lon="127.086758">
+      <ele>244.423938</ele>
+      <time>2020-02-09T09:26:53Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19005988 pci=NA tac=8513 arfcn=NA rssi=-69</cellinfo>
+        <barometer>1010.340</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478162" lon="127.086776">
+      <ele>242.233608</ele>
+      <time>2020-02-09T09:26:59Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19005988 pci=NA tac=8513 arfcn=NA rssi=-67</cellinfo>
+        <barometer>1010.568</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478250" lon="127.086798">
+      <ele>240.048469</ele>
+      <time>2020-02-09T09:27:05Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19005988 pci=NA tac=8513 arfcn=NA rssi=-69</cellinfo>
+        <barometer>1010.800</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478346" lon="127.086775">
+      <ele>235.474308</ele>
+      <time>2020-02-09T09:27:21Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=42075904 pci=NA tac=8513 arfcn=NA rssi=-69</cellinfo>
+        <barometer>1011.341</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478449" lon="127.086726">
+      <ele>231.941867</ele>
+      <time>2020-02-09T09:27:33Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=42075904 pci=NA tac=8513 arfcn=NA rssi=-71</cellinfo>
+        <barometer>1011.807</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478522" lon="127.086662">
+      <ele>230.445756</ele>
+      <time>2020-02-09T09:27:38Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=-1 pci=NA tac=8513 arfcn=NA rssi=-71</cellinfo>
+        <barometer>1011.983</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478598" lon="127.086575">
+      <ele>229.016333</ele>
+      <time>2020-02-09T09:27:43Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=-1 pci=NA tac=8513 arfcn=NA rssi=-71</cellinfo>
+        <barometer>1012.159</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478679" lon="127.086508">
+      <ele>225.767797</ele>
+      <time>2020-02-09T09:27:54Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=-1 pci=NA tac=8513 arfcn=NA rssi=-69</cellinfo>
+        <barometer>1012.537</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478724" lon="127.086406">
+      <ele>222.364484</ele>
+      <time>2020-02-09T09:28:08Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=-1 pci=NA tac=8513 arfcn=NA rssi=-77</cellinfo>
+        <barometer>1012.781</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478661" lon="127.086336">
+      <ele>217.496008</ele>
+      <time>2020-02-09T09:28:32Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=19692832 pci=NA tac=8513 arfcn=NA rssi=-75</cellinfo>
+        <barometer>1011.983</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478593" lon="127.086242">
+      <ele>215.432851</ele>
+      <time>2020-02-09T09:28:44Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=-1 pci=NA tac=8513 arfcn=NA rssi=-77</cellinfo>
+        <barometer>1011.603</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478521" lon="127.086159">
+      <ele>213.983640</ele>
+      <time>2020-02-09T09:28:51Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=-1 pci=NA tac=8513 arfcn=NA rssi=-79</cellinfo>
+        <barometer>1011.385</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478497" lon="127.086055">
+      <ele>210.135728</ele>
+      <time>2020-02-09T09:29:13Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-95 rsrq=-17 rssnr=-6 cqi=3</cellinfo>
+        <barometer>1010.935</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478495" lon="127.085931">
+      <ele>207.369747</ele>
+      <time>2020-02-09T09:29:31Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-90 rsrq=-15 rssnr=-7 cqi=4</cellinfo>
+        <barometer>1010.664</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478443" lon="127.085811">
+      <ele>206.224867</ele>
+      <time>2020-02-09T09:29:39Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-85 rsrq=-17 rssnr=-7 cqi=4</cellinfo>
+        <barometer>1010.489</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478419" lon="127.085675">
+      <ele>204.872204</ele>
+      <time>2020-02-09T09:29:49Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-86 rsrq=-13 rssnr=-6 cqi=8</cellinfo>
+        <barometer>1010.498</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478358" lon="127.085582">
+      <ele>203.895460</ele>
+      <time>2020-02-09T09:29:56Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-86 rsrq=-11 rssnr=-4 cqi=8</cellinfo>
+        <barometer>1010.575</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478326" lon="127.085451">
+      <ele>202.480937</ele>
+      <time>2020-02-09T09:30:06Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-86 rsrq=-14 rssnr=-5 cqi=8</cellinfo>
+        <barometer>1010.553</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478255" lon="127.085366">
+      <ele>201.241374</ele>
+      <time>2020-02-09T09:30:15Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114035 pci=426 tac=4118 earfcn=1350 rsrp=-105 rsrq=-12 rssnr=1 cqi=8</cellinfo>
+        <barometer>1010.484</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478186" lon="127.085293">
+      <ele>200.033684</ele>
+      <time>2020-02-09T09:30:24Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114035 pci=426 tac=4118 earfcn=1350 rsrp=-106 rsrq=-15 rssnr=-1 cqi=5</cellinfo>
+        <barometer>1010.552</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478141" lon="127.085186">
+      <ele>199.001278</ele>
+      <time>2020-02-09T09:30:32Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114035 pci=426 tac=4118 earfcn=1350 rsrp=-99 rsrq=-11 rssnr=0 cqi=8</cellinfo>
+        <barometer>1010.519</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478122" lon="127.085060">
+      <ele>198.128360</ele>
+      <time>2020-02-09T09:30:39Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114035 pci=426 tac=4118 earfcn=1350 rsrp=-100 rsrq=-13 rssnr=-9 cqi=7</cellinfo>
+        <barometer>1010.560</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478113" lon="127.084931">
+      <ele>197.531482</ele>
+      <time>2020-02-09T09:30:44Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114035 pci=426 tac=4118 earfcn=1350 rsrp=-101 rsrq=-14 rssnr=-2 cqi=7</cellinfo>
+        <barometer>1010.629</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478113" lon="127.084802">
+      <ele>196.978907</ele>
+      <time>2020-02-09T09:30:49Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114035 pci=426 tac=4118 earfcn=1350 rsrp=-101 rsrq=-13 rssnr=-4 cqi=8</cellinfo>
+        <barometer>1010.696</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478152" lon="127.084676">
+      <ele>196.255956</ele>
+      <time>2020-02-09T09:30:56Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114035 pci=426 tac=4118 earfcn=1350 rsrp=-102 rsrq=-16 rssnr=-5 cqi=5</cellinfo>
+        <barometer>1010.793</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478127" lon="127.084547">
+      <ele>195.356997</ele>
+      <time>2020-02-09T09:31:05Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114035 pci=426 tac=4118 earfcn=1350 rsrp=-98 rsrq=-14 rssnr=-1 cqi=6</cellinfo>
+        <barometer>1010.856</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478067" lon="127.084444">
+      <ele>194.371687</ele>
+      <time>2020-02-09T09:31:15Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114035 pci=426 tac=4118 earfcn=1350 rsrp=-101 rsrq=-12 rssnr=-3 cqi=6</cellinfo>
+        <barometer>1010.961</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477966" lon="127.084364">
+      <ele>193.738899</ele>
+      <time>2020-02-09T09:31:22Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114035 pci=426 tac=4118 earfcn=1350 rsrp=-106 rsrq=-12 rssnr=-1 cqi=8</cellinfo>
+        <barometer>1010.781</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477862" lon="127.084321">
+      <ele>192.938310</ele>
+      <time>2020-02-09T09:31:32Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114035 pci=426 tac=4118 earfcn=1350 rsrp=-104 rsrq=-12 rssnr=-6 cqi=4</cellinfo>
+        <barometer>1010.529</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477770" lon="127.084239">
+      <ele>192.287664</ele>
+      <time>2020-02-09T09:31:41Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114035 pci=426 tac=4118 earfcn=1350 rsrp=-101 rsrq=-13 rssnr=-1 cqi=5</cellinfo>
+        <barometer>1010.233</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477687" lon="127.084164">
+      <ele>191.675021</ele>
+      <time>2020-02-09T09:31:50Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114035 pci=426 tac=4118 earfcn=1350 rsrp=-101 rsrq=-18 rssnr=-5 cqi=7</cellinfo>
+        <barometer>1009.986</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477596" lon="127.084146">
+      <ele>190.786351</ele>
+      <time>2020-02-09T09:32:06Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-98 rsrq=-18 rssnr=-8 cqi=5</cellinfo>
+        <barometer>1009.576</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477535" lon="127.084232">
+      <ele>189.907941</ele>
+      <time>2020-02-09T09:32:26Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7257123 pci=173 tac=8468 earfcn=2500 rsrp=-98 rsrq=-18 rssnr=-9 cqi=3</cellinfo>
+        <barometer>1009.159</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477440" lon="127.084283">
+      <ele>189.279042</ele>
+      <time>2020-02-09T09:32:39Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-96 rsrq=-16 rssnr=-6 cqi=5</cellinfo>
+        <barometer>1008.853</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477375" lon="127.084202">
+      <ele>188.524094</ele>
+      <time>2020-02-09T09:33:00Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7231775 pci=444 tac=4118 earfcn=2500 rsrp=-90 rsrq=-17 rssnr=-8 cqi=3</cellinfo>
+        <barometer>1008.730</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477297" lon="127.084131">
+      <ele>188.130269</ele>
+      <time>2020-02-09T09:33:09Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-92 rsrq=-11 rssnr=-5 cqi=6</cellinfo>
+        <barometer>1008.624</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477217" lon="127.084078">
+      <ele>187.718747</ele>
+      <time>2020-02-09T09:33:18Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-91 rsrq=-16 rssnr=-6 cqi=6</cellinfo>
+        <barometer>1008.489</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477147" lon="127.083982">
+      <ele>187.249968</ele>
+      <time>2020-02-09T09:33:29Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7231775 pci=444 tac=4118 earfcn=2500 rsrp=-95 rsrq=-16 rssnr=-4 cqi=4</cellinfo>
+        <barometer>1008.517</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477149" lon="127.083868">
+      <ele>186.897552</ele>
+      <time>2020-02-09T09:33:38Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-95 rsrq=-17 rssnr=-1 cqi=2</cellinfo>
+        <barometer>1008.416</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477132" lon="127.083743">
+      <ele>186.664423</ele>
+      <time>2020-02-09T09:33:44Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-95 rsrq=-19 rssnr=-8 cqi=3</cellinfo>
+        <barometer>1008.493</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477103" lon="127.083586">
+      <ele>186.239359</ele>
+      <time>2020-02-09T09:33:55Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-92 rsrq=-18 rssnr=-7 cqi=1</cellinfo>
+        <barometer>1008.502</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477095" lon="127.083443">
+      <ele>185.717039</ele>
+      <time>2020-02-09T09:34:08Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-94 rsrq=-17 rssnr=-8 cqi=4</cellinfo>
+        <barometer>1008.333</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477057" lon="127.083332">
+      <ele>185.350754</ele>
+      <time>2020-02-09T09:34:17Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-97 rsrq=-17 rssnr=-7 cqi=4</cellinfo>
+        <barometer>1008.156</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.476986" lon="127.083237">
+      <ele>184.953790</ele>
+      <time>2020-02-09T09:34:30Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-94 rsrq=-14 rssnr=-7 cqi=4</cellinfo>
+        <barometer>1008.026</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.476941" lon="127.083125">
+      <ele>184.537018</ele>
+      <time>2020-02-09T09:34:43Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-94 rsrq=-15 rssnr=-7 cqi=4</cellinfo>
+        <barometer>1008.075</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.476930" lon="127.082997">
+      <ele>184.268113</ele>
+      <time>2020-02-09T09:34:52Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-96 rsrq=-17 rssnr=-7 cqi=3</cellinfo>
+        <barometer>1008.019</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.476873" lon="127.082874">
+      <ele>184.075906</ele>
+      <time>2020-02-09T09:34:59Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-89 rsrq=-19 rssnr=-11 cqi=3</cellinfo>
+        <barometer>1008.024</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.476862" lon="127.082746">
+      <ele>183.892691</ele>
+      <time>2020-02-09T09:35:08Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-93 rsrq=-16 rssnr=-6 cqi=3</cellinfo>
+        <barometer>1008.051</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.476909" lon="127.082634">
+      <ele>183.758930</ele>
+      <time>2020-02-09T09:35:13Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-95 rsrq=-17 rssnr=-10 cqi=3</cellinfo>
+        <barometer>1008.052</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.476961" lon="127.082536">
+      <ele>183.591456</ele>
+      <time>2020-02-09T09:35:19Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-94 rsrq=-14 rssnr=-5 cqi=6</cellinfo>
+        <barometer>1008.002</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.476996" lon="127.082392">
+      <ele>183.385409</ele>
+      <time>2020-02-09T09:35:27Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=627243 pci=436 tac=4116 earfcn=2500 rsrp=-92 rsrq=-16 rssnr=0 cqi=5</cellinfo>
+        <barometer>1007.968</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477017" lon="127.082274">
+      <ele>183.270306</ele>
+      <time>2020-02-09T09:35:32Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=627243 pci=436 tac=4116 earfcn=2500 rsrp=-93 rsrq=-18 rssnr=-7 cqi=3</cellinfo>
+        <barometer>1007.956</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477054" lon="127.082165">
+      <ele>183.127148</ele>
+      <time>2020-02-09T09:35:39Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=627243 pci=436 tac=4116 earfcn=2500 rsrp=-92 rsrq=-16 rssnr=-7 cqi=4</cellinfo>
+        <barometer>1007.887</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477063" lon="127.082019">
+      <ele>182.945944</ele>
+      <time>2020-02-09T09:35:49Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=627243 pci=436 tac=4116 earfcn=2500 rsrp=-89 rsrq=-17 rssnr=-8 cqi=2</cellinfo>
+        <barometer>1007.881</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477114" lon="127.081907">
+      <ele>182.827496</ele>
+      <time>2020-02-09T09:35:56Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-86 rsrq=-17 rssnr=-4 cqi=6</cellinfo>
+        <barometer>1007.635</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477142" lon="127.081798">
+      <ele>182.681533</ele>
+      <time>2020-02-09T09:36:06Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-84 rsrq=-11 rssnr=0 cqi=6</cellinfo>
+        <barometer>1007.589</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477169" lon="127.081689">
+      <ele>182.536070</ele>
+      <time>2020-02-09T09:36:17Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-89 rsrq=-15 rssnr=-6 cqi=7</cellinfo>
+        <barometer>1007.420</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477260" lon="127.081680">
+      <ele>182.455353</ele>
+      <time>2020-02-09T09:36:43Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-90 rsrq=-14 rssnr=-11 cqi=4</cellinfo>
+        <barometer>1008.302</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477294" lon="127.081555">
+      <ele>182.327734</ele>
+      <time>2020-02-09T09:36:59Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-95 rsrq=-15 rssnr=-7 cqi=5</cellinfo>
+        <barometer>1008.491</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477356" lon="127.081413">
+      <ele>182.185454</ele>
+      <time>2020-02-09T09:37:07Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-91 rsrq=-18 rssnr=-8 cqi=4</cellinfo>
+        <barometer>1008.527</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477391" lon="127.081261">
+      <ele>182.027203</ele>
+      <time>2020-02-09T09:37:16Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-85 rsrq=-14 rssnr=-1 cqi=7</cellinfo>
+        <barometer>1008.674</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477388" lon="127.081145">
+      <ele>181.873173</ele>
+      <time>2020-02-09T09:37:25Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-79 rsrq=-12 rssnr=1 cqi=4</cellinfo>
+        <barometer>1008.926</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477459" lon="127.081050">
+      <ele>181.489601</ele>
+      <time>2020-02-09T09:37:50Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-73 rsrq=-15 rssnr=-5 cqi=5</cellinfo>
+        <barometer>1009.696</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477563" lon="127.081043">
+      <ele>181.273156</ele>
+      <time>2020-02-09T09:38:02Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-77 rsrq=-10 rssnr=2 cqi=6</cellinfo>
+        <barometer>1010.122</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477660" lon="127.081052">
+      <ele>180.954314</ele>
+      <time>2020-02-09T09:38:27Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-77 rsrq=-11 rssnr=-2 cqi=5</cellinfo>
+        <barometer>1010.730</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477768" lon="127.081042">
+      <ele>180.432436</ele>
+      <time>2020-02-09T09:38:45Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-72 rsrq=-9 rssnr=3 cqi=6</cellinfo>
+        <barometer>1011.423</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477870" lon="127.081077">
+      <ele>180.084912</ele>
+      <time>2020-02-09T09:38:58Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-78 rsrq=-12 rssnr=0 cqi=4</cellinfo>
+        <barometer>1011.839</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.477964" lon="127.081113">
+      <ele>179.725752</ele>
+      <time>2020-02-09T09:39:08Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-84 rsrq=-15 rssnr=-6 cqi=5</cellinfo>
+        <barometer>1012.143</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478056" lon="127.081141">
+      <ele>179.481364</ele>
+      <time>2020-02-09T09:39:15Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=627243 pci=436 tac=4116 earfcn=2500 rsrp=-83 rsrq=-12 rssnr=-5 cqi=6</cellinfo>
+        <barometer>1012.383</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478150" lon="127.081132">
+      <ele>178.880655</ele>
+      <time>2020-02-09T09:39:32Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-83 rsrq=-14 rssnr=-6 cqi=5</cellinfo>
+        <barometer>1012.874</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478250" lon="127.081128">
+      <ele>178.495230</ele>
+      <time>2020-02-09T09:39:42Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=442887 pci=58 tac=4118 earfcn=2500 rsrp=-75 rsrq=-10 rssnr=0 cqi=5</cellinfo>
+        <barometer>1013.295</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478347" lon="127.081165">
+      <ele>178.038155</ele>
+      <time>2020-02-09T09:39:54Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=442887 pci=58 tac=4118 earfcn=2500 rsrp=-77 rsrq=-10 rssnr=-3 cqi=3</cellinfo>
+        <barometer>1013.693</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478419" lon="127.081255">
+      <ele>177.707016</ele>
+      <time>2020-02-09T09:40:03Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-81 rsrq=-8 rssnr=8 cqi=9</cellinfo>
+        <barometer>1013.908</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478480" lon="127.081353">
+      <ele>177.338719</ele>
+      <time>2020-02-09T09:40:13Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-82 rsrq=-12 rssnr=-3 cqi=5</cellinfo>
+        <barometer>1014.017</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478591" lon="127.081345">
+      <ele>176.866169</ele>
+      <time>2020-02-09T09:40:26Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-83 rsrq=-12 rssnr=2 cqi=7</cellinfo>
+        <barometer>1014.421</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478659" lon="127.081255">
+      <ele>176.491266</ele>
+      <time>2020-02-09T09:40:36Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-88 rsrq=-13 rssnr=-3 cqi=4</cellinfo>
+        <barometer>1014.683</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478756" lon="127.081258">
+      <ele>176.102309</ele>
+      <time>2020-02-09T09:40:45Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-81 rsrq=-10 rssnr=4 cqi=5</cellinfo>
+        <barometer>1014.985</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478847" lon="127.081297">
+      <ele>175.656994</ele>
+      <time>2020-02-09T09:40:58Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-81 rsrq=-10 rssnr=3 cqi=7</cellinfo>
+        <barometer>1015.365</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.478937" lon="127.081323">
+      <ele>175.304725</ele>
+      <time>2020-02-09T09:41:06Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-84 rsrq=-10 rssnr=2 cqi=6</cellinfo>
+        <barometer>1015.554</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.479025" lon="127.081290">
+      <ele>174.718019</ele>
+      <time>2020-02-09T09:41:20Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-88 rsrq=-11 rssnr=6 cqi=9</cellinfo>
+        <barometer>1015.999</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.479095" lon="127.081207">
+      <ele>174.125278</ele>
+      <time>2020-02-09T09:41:32Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-77 rsrq=-11 rssnr=2 cqi=8</cellinfo>
+        <barometer>1016.329</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.479152" lon="127.081114">
+      <ele>173.760522</ele>
+      <time>2020-02-09T09:41:39Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-87 rsrq=-11 rssnr=5 cqi=9</cellinfo>
+        <barometer>1016.516</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.479228" lon="127.081044">
+      <ele>173.109942</ele>
+      <time>2020-02-09T09:41:51Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-83 rsrq=-13 rssnr=-1 cqi=10</cellinfo>
+        <barometer>1016.770</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.479319" lon="127.081073">
+      <ele>172.541860</ele>
+      <time>2020-02-09T09:42:01Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-81 rsrq=-9 rssnr=3 cqi=7</cellinfo>
+        <barometer>1016.952</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.479418" lon="127.081141">
+      <ele>172.072477</ele>
+      <time>2020-02-09T09:42:08Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-77 rsrq=-10 rssnr=-3 cqi=10</cellinfo>
+        <barometer>1017.128</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.479534" lon="127.081151">
+      <ele>171.329671</ele>
+      <time>2020-02-09T09:42:18Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-79 rsrq=-11 rssnr=7 cqi=7</cellinfo>
+        <barometer>1017.353</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.479634" lon="127.081131">
+      <ele>170.826559</ele>
+      <time>2020-02-09T09:42:24Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-82 rsrq=-11 rssnr=-6 cqi=6</cellinfo>
+        <barometer>1017.464</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.479727" lon="127.081098">
+      <ele>170.284692</ele>
+      <time>2020-02-09T09:42:30Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-78 rsrq=-10 rssnr=14 cqi=9</cellinfo>
+        <barometer>1017.617</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.479820" lon="127.081094">
+      <ele>169.467652</ele>
+      <time>2020-02-09T09:42:38Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-79 rsrq=-9 rssnr=4 cqi=10</cellinfo>
+        <barometer>1017.809</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.479926" lon="127.081089">
+      <ele>168.663271</ele>
+      <time>2020-02-09T09:42:46Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-68 rsrq=-9 rssnr=12 cqi=13</cellinfo>
+        <barometer>1018.002</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.480017" lon="127.081106">
+      <ele>167.828697</ele>
+      <time>2020-02-09T09:42:53Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-72 rsrq=-9 rssnr=6 cqi=9</cellinfo>
+        <barometer>1018.237</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.480125" lon="127.081092">
+      <ele>166.442292</ele>
+      <time>2020-02-09T09:43:03Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-71 rsrq=-9 rssnr=10 cqi=12</cellinfo>
+        <barometer>1018.457</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.480218" lon="127.081077">
+      <ele>165.461998</ele>
+      <time>2020-02-09T09:43:09Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-76 rsrq=-10 rssnr=13 cqi=9</cellinfo>
+        <barometer>1018.628</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.480317" lon="127.081004">
+      <ele>164.014098</ele>
+      <time>2020-02-09T09:43:17Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-72 rsrq=-9 rssnr=7 cqi=8</cellinfo>
+        <barometer>1018.793</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.480405" lon="127.080962">
+      <ele>163.044007</ele>
+      <time>2020-02-09T09:43:22Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-77 rsrq=-10 rssnr=7 cqi=8</cellinfo>
+        <barometer>1018.863</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.480363" lon="127.080849">
+      <ele>161.381341</ele>
+      <time>2020-02-09T09:43:30Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=3114023 pci=426 tac=4118 earfcn=2500 rsrp=-77 rsrq=-10 rssnr=1 cqi=9</cellinfo>
+        <barometer>1018.656</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.480269" lon="127.080758">
+      <ele>160.097269</ele>
+      <time>2020-02-09T09:43:36Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-83 rsrq=-10 rssnr=0 cqi=6</cellinfo>
+        <barometer>1018.462</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.480320" lon="127.080834">
+      <ele>154.773183</ele>
+      <time>2020-02-09T09:44:15Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-72 rsrq=-9 rssnr=16 cqi=11</cellinfo>
+        <barometer>1018.719</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.480418" lon="127.080889">
+      <ele>151.683297</ele>
+      <time>2020-02-09T09:44:24Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-77 rsrq=-10 rssnr=5 cqi=9</cellinfo>
+        <barometer>1018.852</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.480494" lon="127.080949">
+      <ele>148.912117</ele>
+      <time>2020-02-09T09:44:33Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-71 rsrq=-9 rssnr=16 cqi=14</cellinfo>
+        <barometer>1019.091</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.480592" lon="127.080969">
+      <ele>146.166529</ele>
+      <time>2020-02-09T09:44:43Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-79 rsrq=-9 rssnr=16 cqi=15</cellinfo>
+        <barometer>1019.436</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.480684" lon="127.080975">
+      <ele>143.964436</ele>
+      <time>2020-02-09T09:44:52Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-84 rsrq=-10 rssnr=13 cqi=11</cellinfo>
+        <barometer>1019.733</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.480784" lon="127.080961">
+      <ele>141.918076</ele>
+      <time>2020-02-09T09:45:01Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-85 rsrq=-10 rssnr=11 cqi=8</cellinfo>
+        <barometer>1020.048</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.480750" lon="127.080843">
+      <ele>138.835654</ele>
+      <time>2020-02-09T09:45:16Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-82 rsrq=-10 rssnr=9 cqi=15</cellinfo>
+        <barometer>1020.002</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.480665" lon="127.080795">
+      <ele>137.693059</ele>
+      <time>2020-02-09T09:47:22Z</time>
+      <extensions>
+        <pause>start</pause>
+        <type>unknown</type>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-85 rsrq=-9 rssnr=6 cqi=10</cellinfo>
+        <barometer>1020.018</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.480800" lon="127.080717">
+      <ele>128.285849</ele>
+      <time>2020-02-09T09:50:33Z</time>
+      <extensions>
+        <pause>end</pause>
+        <type>auto</type>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-82 rsrq=-10 rssnr=10 cqi=8</cellinfo>
+        <barometer>1020.041</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.480863" lon="127.080810">
+      <ele>127.111165</ele>
+      <time>2020-02-09T09:50:45Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-79 rsrq=-9 rssnr=8 cqi=9</cellinfo>
+        <barometer>1020.168</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.480902" lon="127.080988">
+      <ele>124.883304</ele>
+      <time>2020-02-09T09:50:55Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-80 rsrq=-10 rssnr=8 cqi=9</cellinfo>
+        <barometer>1020.258</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.480971" lon="127.081004">
+      <ele>115.541283</ele>
+      <time>2020-02-09T09:51:40Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-86 rsrq=-10 rssnr=7 cqi=8</cellinfo>
+        <barometer>1020.396</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.481012" lon="127.080862">
+      <ele>110.756321</ele>
+      <time>2020-02-09T09:51:44Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-85 rsrq=-10 rssnr=8 cqi=9</cellinfo>
+        <barometer>1020.428</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.481064" lon="127.080730">
+      <ele>107.995575</ele>
+      <time>2020-02-09T09:51:46Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-82 rsrq=-10 rssnr=8 cqi=9</cellinfo>
+        <barometer>1020.449</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.481182" lon="127.080521">
+      <ele>105.576276</ele>
+      <time>2020-02-09T09:51:49Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-82 rsrq=-9 rssnr=9 cqi=8</cellinfo>
+        <barometer>1020.481</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.481283" lon="127.080435">
+      <ele>104.649184</ele>
+      <time>2020-02-09T09:51:51Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-81 rsrq=-10 rssnr=10 cqi=12</cellinfo>
+        <barometer>1020.649</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.481404" lon="127.080376">
+      <ele>104.062345</ele>
+      <time>2020-02-09T09:51:53Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-82 rsrq=-7 rssnr=-1 cqi=11</cellinfo>
+        <barometer>1020.739</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.481572" lon="127.080261">
+      <ele>103.534454</ele>
+      <time>2020-02-09T09:51:56Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-82 rsrq=-10 rssnr=6 cqi=7</cellinfo>
+        <barometer>1021.003</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.481695" lon="127.080187">
+      <ele>103.313207</ele>
+      <time>2020-02-09T09:51:58Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-71 rsrq=-9 rssnr=16 cqi=10</cellinfo>
+        <barometer>1021.041</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.481842" lon="127.080123">
+      <ele>103.151017</ele>
+      <time>2020-02-09T09:52:00Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-86 rsrq=-10 rssnr=6 cqi=8</cellinfo>
+        <barometer>1021.111</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.482000" lon="127.080082">
+      <ele>103.008969</ele>
+      <time>2020-02-09T09:52:02Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-84 rsrq=-10 rssnr=5 cqi=11</cellinfo>
+        <barometer>1021.262</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.482149" lon="127.080043">
+      <ele>102.889679</ele>
+      <time>2020-02-09T09:52:04Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7230751 pci=1 tac=4118 earfcn=2500 rsrp=-70 rsrq=-9 rssnr=10 cqi=9</cellinfo>
+        <barometer>1021.442</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.482283" lon="127.080018">
+      <ele>102.828999</ele>
+      <time>2020-02-09T09:52:07Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7231775 pci=444 tac=4118 earfcn=2500 rsrp=-81 rsrq=-7 rssnr=6 cqi=6</cellinfo>
+        <barometer>1021.533</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.482379" lon="127.080016">
+      <ele>102.951438</ele>
+      <time>2020-02-09T09:53:04Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7231775 pci=444 tac=4118 earfcn=2500 rsrp=-87 rsrq=-10 rssnr=3 cqi=8</cellinfo>
+        <barometer>1021.469</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.482497" lon="127.079965">
+      <ele>103.112197</ele>
+      <time>2020-02-09T09:53:12Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7231775 pci=444 tac=4118 earfcn=2500 rsrp=-81 rsrq=-7 rssnr=8 cqi=12</cellinfo>
+        <barometer>1021.565</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.482615" lon="127.079893">
+      <ele>103.223719</ele>
+      <time>2020-02-09T09:53:14Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7231775 pci=444 tac=4118 earfcn=2500 rsrp=-86 rsrq=-9 rssnr=4 cqi=10</cellinfo>
+        <barometer>1021.619</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.482835" lon="127.079845">
+      <ele>103.276853</ele>
+      <time>2020-02-09T09:53:16Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7231775 pci=444 tac=4118 earfcn=2500 rsrp=-86 rsrq=-8 rssnr=5 cqi=9</cellinfo>
+        <barometer>1021.747</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.483033" lon="127.079795">
+      <ele>103.316793</ele>
+      <time>2020-02-09T09:53:18Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7231775 pci=444 tac=4118 earfcn=2500 rsrp=-86 rsrq=-5 rssnr=19 cqi=11</cellinfo>
+        <barometer>1021.844</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.483229" lon="127.079738">
+      <ele>103.316220</ele>
+      <time>2020-02-09T09:53:21Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7231775 pci=444 tac=4118 earfcn=2500 rsrp=-80 rsrq=-6 rssnr=10 cqi=12</cellinfo>
+        <barometer>1021.842</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.483409" lon="127.079697">
+      <ele>103.227058</ele>
+      <time>2020-02-09T09:53:24Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7231775 pci=444 tac=4118 earfcn=2500 rsrp=-77 rsrq=-6 rssnr=23 cqi=15</cellinfo>
+        <barometer>1021.916</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.483512" lon="127.079672">
+      <ele>103.134849</ele>
+      <time>2020-02-09T09:53:26Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7231775 pci=444 tac=4118 earfcn=2500 rsrp=-65 rsrq=-6 rssnr=29 cqi=13</cellinfo>
+        <barometer>1021.909</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.483625" lon="127.079651">
+      <ele>102.972791</ele>
+      <time>2020-02-09T09:53:28Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7231775 pci=444 tac=4118 earfcn=2500 rsrp=-64 rsrq=-5 rssnr=26 cqi=15</cellinfo>
+        <barometer>1021.973</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.483736" lon="127.079651">
+      <ele>102.946754</ele>
+      <time>2020-02-09T09:53:31Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7231775 pci=444 tac=4118 earfcn=2500 rsrp=-74 rsrq=-9 rssnr=11 cqi=15</cellinfo>
+        <barometer>1021.974</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.483854" lon="127.079635">
+      <ele>102.768938</ele>
+      <time>2020-02-09T09:53:34Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7231775 pci=444 tac=4118 earfcn=2500 rsrp=-80 rsrq=-6 rssnr=10 cqi=11</cellinfo>
+        <barometer>1021.999</barometer>
+      </extensions>
+    </trkpt>
+    <trkpt lat="37.483946" lon="127.079638">
+      <ele>102.634378</ele>
+      <time>2020-02-09T09:53:36Z</time>
+      <extensions>
+        <cellinfo>mcc=450 mnc=5 ci=7231775 pci=444 tac=4118 earfcn=2500 rsrp=-80 rsrq=-5 rssnr=19 cqi=15</cellinfo>
+        <barometer>1022.033</barometer>
+      </extensions>
+    </trkpt>
+</trkseg>
+  </trk>
+  
+  <extensions>
+
+   <badge tag="candidates" msg="nearby L(37.46922, 127.06239)" gpsTime="2020-02-09T08:27:22Z" >
+      <item id="120107" dist="87.49674"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46923, 127.06237)" gpsTime="2020-02-09T08:27:25Z" >
+      <item id="120107" dist="86.43066"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46922, 127.06237)" gpsTime="2020-02-09T08:27:27Z" >
+      <item id="120107" dist="85.47124"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46922, 127.06237)" gpsTime="2020-02-09T08:27:28Z" >
+      <item id="120107" dist="85.47124"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46922, 127.06236)" gpsTime="2020-02-09T08:27:30Z" >
+      <item id="120107" dist="85.302246"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46922, 127.06236)" gpsTime="2020-02-09T08:27:32Z" >
+      <item id="120107" dist="85.302246"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46921, 127.06236)" gpsTime="2020-02-09T08:27:36Z" >
+      <item id="120107" dist="85.302246"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46921, 127.06236)" gpsTime="2020-02-09T08:27:38Z" >
+      <item id="120107" dist="84.80594"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46920, 127.06236)" gpsTime="2020-02-09T08:27:40Z" >
+      <item id="120107" dist="84.80594"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46920, 127.06236)" gpsTime="2020-02-09T08:27:41Z" >
+      <item id="120107" dist="84.80594"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46920, 127.06237)" gpsTime="2020-02-09T08:27:43Z" >
+      <item id="120107" dist="84.64409"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46921, 127.06236)" gpsTime="2020-02-09T08:27:45Z" >
+      <item id="120107" dist="84.96958"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46922, 127.06236)" gpsTime="2020-02-09T08:27:47Z" >
+      <item id="120107" dist="84.85346"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46922, 127.06236)" gpsTime="2020-02-09T08:27:50Z" >
+      <item id="120107" dist="84.85346"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46922, 127.06236)" gpsTime="2020-02-09T08:27:52Z" >
+      <item id="120107" dist="84.85346"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46922, 127.06236)" gpsTime="2020-02-09T08:27:53Z" >
+      <item id="120107" dist="84.85346"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46922, 127.06236)" gpsTime="2020-02-09T08:27:55Z" >
+      <item id="120107" dist="84.85346"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46922, 127.06236)" gpsTime="2020-02-09T08:27:57Z" >
+      <item id="120107" dist="84.85346"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46922, 127.06236)" gpsTime="2020-02-09T08:27:59Z" >
+      <item id="120107" dist="84.85346"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46922, 127.06236)" gpsTime="2020-02-09T08:28:02Z" >
+      <item id="120107" dist="84.68324"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46922, 127.06236)" gpsTime="2020-02-09T08:28:04Z" >
+      <item id="120107" dist="84.68324"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46922, 127.06236)" gpsTime="2020-02-09T08:28:06Z" >
+      <item id="120107" dist="85.302246"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46922, 127.06236)" gpsTime="2020-02-09T08:28:08Z" >
+      <item id="120107" dist="85.302246"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46922, 127.06236)" gpsTime="2020-02-09T08:28:10Z" >
+      <item id="120107" dist="85.302246"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46922, 127.06236)" gpsTime="2020-02-09T08:28:12Z" >
+      <item id="120107" dist="85.302246"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46922, 127.06236)" gpsTime="2020-02-09T08:28:14Z" >
+      <item id="120107" dist="85.302246"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46922, 127.06236)" gpsTime="2020-02-09T08:28:16Z" >
+      <item id="120107" dist="85.302246"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46923, 127.06234)" gpsTime="2020-02-09T08:28:19Z" >
+      <item id="120107" dist="83.97139"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46923, 127.06234)" gpsTime="2020-02-09T08:28:21Z" >
+      <item id="120107" dist="84.32925"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46924, 127.06234)" gpsTime="2020-02-09T08:28:23Z" >
+      <item id="120107" dist="84.32925"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46924, 127.06234)" gpsTime="2020-02-09T08:28:25Z" >
+      <item id="120107" dist="84.32925"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46924, 127.06234)" gpsTime="2020-02-09T08:28:27Z" >
+      <item id="120107" dist="84.51079"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46924, 127.06234)" gpsTime="2020-02-09T08:28:29Z" >
+      <item id="120107" dist="84.51079"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46924, 127.06234)" gpsTime="2020-02-09T08:28:31Z" >
+      <item id="120107" dist="84.51079"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46924, 127.06234)" gpsTime="2020-02-09T08:28:33Z" >
+      <item id="120107" dist="84.08682"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46924, 127.06234)" gpsTime="2020-02-09T08:28:35Z" >
+      <item id="120107" dist="84.08682"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46924, 127.06234)" gpsTime="2020-02-09T08:28:37Z" >
+      <item id="120107" dist="84.08682"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46924, 127.06234)" gpsTime="2020-02-09T08:28:38Z" >
+      <item id="120107" dist="84.08682"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46924, 127.06233)" gpsTime="2020-02-09T08:28:41Z" >
+      <item id="120107" dist="84.08682"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46924, 127.06233)" gpsTime="2020-02-09T08:28:44Z" >
+      <item id="120107" dist="84.08682"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46924, 127.06233)" gpsTime="2020-02-09T08:28:46Z" >
+      <item id="120107" dist="84.08682"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46924, 127.06233)" gpsTime="2020-02-09T08:28:48Z" >
+      <item id="120107" dist="84.08682"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46924, 127.06233)" gpsTime="2020-02-09T08:28:50Z" >
+      <item id="120107" dist="84.08682"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46924, 127.06233)" gpsTime="2020-02-09T08:28:52Z" >
+      <item id="120107" dist="84.08682"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46924, 127.06233)" gpsTime="2020-02-09T08:28:53Z" >
+      <item id="120107" dist="84.08682"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46924, 127.06233)" gpsTime="2020-02-09T08:28:55Z" >
+      <item id="120107" dist="83.48064"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46924, 127.06233)" gpsTime="2020-02-09T08:28:58Z" >
+      <item id="120107" dist="83.48064"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46924, 127.06233)" gpsTime="2020-02-09T08:28:59Z" >
+      <item id="120107" dist="83.48064"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46924, 127.06233)" gpsTime="2020-02-09T08:29:01Z" >
+      <item id="120107" dist="83.48064"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46924, 127.06232)" gpsTime="2020-02-09T08:29:03Z" >
+      <item id="120107" dist="83.48064"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46924, 127.06232)" gpsTime="2020-02-09T08:29:05Z" >
+      <item id="120107" dist="83.48064"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46924, 127.06232)" gpsTime="2020-02-09T08:29:08Z" >
+      <item id="120107" dist="83.668304"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46924, 127.06232)" gpsTime="2020-02-09T08:29:10Z" >
+      <item id="120107" dist="83.064545"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46925, 127.06232)" gpsTime="2020-02-09T08:29:12Z" >
+      <item id="120107" dist="83.064545"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46925, 127.06232)" gpsTime="2020-02-09T08:29:13Z" >
+      <item id="120107" dist="83.064545"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46925, 127.06232)" gpsTime="2020-02-09T08:29:15Z" >
+      <item id="120107" dist="83.064545"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46925, 127.06232)" gpsTime="2020-02-09T08:29:18Z" >
+      <item id="120107" dist="83.2553"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46925, 127.06232)" gpsTime="2020-02-09T08:29:21Z" >
+      <item id="120107" dist="83.2553"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46925, 127.06232)" gpsTime="2020-02-09T08:29:23Z" >
+      <item id="120107" dist="83.2553"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46925, 127.06232)" gpsTime="2020-02-09T08:29:25Z" >
+      <item id="120107" dist="83.2553"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46925, 127.06232)" gpsTime="2020-02-09T08:29:27Z" >
+      <item id="120107" dist="83.2553"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46925, 127.06232)" gpsTime="2020-02-09T08:29:29Z" >
+      <item id="120107" dist="83.2553"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46925, 127.06232)" gpsTime="2020-02-09T08:29:30Z" >
+      <item id="120107" dist="83.2553"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46925, 127.06232)" gpsTime="2020-02-09T08:29:32Z" >
+      <item id="120107" dist="83.2553"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46925, 127.06232)" gpsTime="2020-02-09T08:29:35Z" >
+      <item id="120107" dist="83.44778"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46925, 127.06233)" gpsTime="2020-02-09T08:29:37Z" >
+      <item id="120107" dist="84.6509"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46925, 127.06232)" gpsTime="2020-02-09T08:29:39Z" >
+      <item id="120107" dist="83.44778"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46925, 127.06231)" gpsTime="2020-02-09T08:29:41Z" >
+      <item id="120107" dist="83.44778"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46925, 127.06230)" gpsTime="2020-02-09T08:29:43Z" >
+      <item id="120107" dist="82.24921"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46925, 127.06228)" gpsTime="2020-02-09T08:29:46Z" >
+      <item id="120107" dist="81.05539"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.46903, 127.06205)" gpsTime="2020-02-09T08:30:31Z" >
+      <item id="120107" dist="52.400116"/>
+   </badge>
+   <badge tag="registration (offline)" msg="code -1" badgeId="120107" badgeUser="D49C8B52CAB28FB9" badgeTime="2020-02-09T08:30:33Z" />
+   <badge tag="candidates" msg="nearby L(37.47499, 127.07809)" gpsTime="2020-02-09T09:01:59Z" >
+      <item id="120108" dist="76.78349"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.47499, 127.07812)" gpsTime="2020-02-09T09:02:01Z" >
+      <item id="120108" dist="73.68507"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.47499, 127.07817)" gpsTime="2020-02-09T09:02:03Z" >
+      <item id="120108" dist="69.83912"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.47500, 127.07822)" gpsTime="2020-02-09T09:02:06Z" >
+      <item id="120108" dist="66.16258"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.47500, 127.07822)" gpsTime="2020-02-09T09:02:07Z" >
+      <item id="120108" dist="65.82992"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.47496, 127.07781)" gpsTime="2020-02-09T09:02:09Z" >
+      <item id="120108" dist="100.43569"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.47500, 127.07825)" gpsTime="2020-02-09T09:02:09Z" >
+      <item id="120108" dist="63.94537"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.47496, 127.07782)" gpsTime="2020-02-09T09:02:12Z" >
+      <item id="120108" dist="99.02962"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.47500, 127.07828)" gpsTime="2020-02-09T09:02:12Z" >
+      <item id="120108" dist="61.124763"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.47496, 127.07783)" gpsTime="2020-02-09T09:02:14Z" >
+      <item id="120108" dist="98.450325"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.47500, 127.07829)" gpsTime="2020-02-09T09:02:14Z" >
+      <item id="120108" dist="60.203552"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.47496, 127.07783)" gpsTime="2020-02-09T09:02:16Z" >
+      <item id="120108" dist="97.70546"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.47500, 127.07830)" gpsTime="2020-02-09T09:02:16Z" >
+      <item id="120108" dist="59.25198"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.47496, 127.07784)" gpsTime="2020-02-09T09:02:17Z" >
+      <item id="120108" dist="97.70546"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.47500, 127.07831)" gpsTime="2020-02-09T09:02:17Z" >
+      <item id="120108" dist="58.796345"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.47496, 127.07786)" gpsTime="2020-02-09T09:02:20Z" >
+      <item id="120108" dist="95.72056"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.47499, 127.07835)" gpsTime="2020-02-09T09:02:20Z" >
+      <item id="120108" dist="55.538372"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.47496, 127.07787)" gpsTime="2020-02-09T09:02:22Z" >
+      <item id="120108" dist="94.39823"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.47499, 127.07838)" gpsTime="2020-02-09T09:02:22Z" >
+      <item id="120108" dist="52.90896"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.47496, 127.07789)" gpsTime="2020-02-09T09:02:23Z" >
+      <item id="120108" dist="93.07668"/>
+   </badge>
+   <badge tag="candidates" msg="nearby L(37.47499, 127.07841)" gpsTime="2020-02-09T09:02:23Z" >
+      <item id="120108" dist="50.66693"/>
+   </badge>
+   <badge tag="registration (offline)" msg="code -1" badgeId="120108" badgeUser="D49C8B52CAB28FB9" badgeTime="2020-02-09T09:02:23Z" />
+   <badge tag="error" msg="code -2003" gpsTime="2020-02-09T09:53:38Z" />
+     <badge tag="registration (online)" msg="code 0" badgeId="120107" badgeUser="D49C8B52CAB28FB9" badgeTime="2020-02-09T08:30:33Z" />
+   <badge tag="registration (online)" msg="code 0" badgeId="120108" badgeUser="D49C8B52CAB28FB9" badgeTime="2020-02-09T09:02:23Z" />
+
+  </extensions>
+
+</gpx>
